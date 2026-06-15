@@ -1,0 +1,3 @@
+is_correct,n_rows,mean_n_tokens,median_n_tokens,min_n_tokens,max_n_tokens
+False,20,12.25,11.5,8,21
+True,38,12.18421052631579,12.5,7,23
