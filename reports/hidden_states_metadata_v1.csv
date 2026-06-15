@@ -1,0 +1,247 @@
+fact_id,variant_id,layer,is_correct,question,correct_answer,generated_answer,n_tokens,tokens
+fact_0002,original,6,True,Who was the producer of Reds?,Warren Beatty,"The producer of the 1981 film ""Reds"" was **Warren Beatty**.",8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0002,original,9,True,Who was the producer of Reds?,Warren Beatty,"The producer of the 1981 film ""Reds"" was **Warren Beatty**.",8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0002,original,12,True,Who was the producer of Reds?,Warren Beatty,"The producer of the 1981 film ""Reds"" was **Warren Beatty**.",8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0002,short_direct,6,True,Who is the producer of Reds?,Warren Beatty,"The producer of the film ""Reds"" is **Warren Beatty**. 
+
+He also starred in the film, directed it, and wrote the screenplay.",8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0002,short_direct,9,True,Who is the producer of Reds?,Warren Beatty,"The producer of the film ""Reds"" is **Warren Beatty**. 
+
+He also starred in the film, directed it, and wrote the screenplay.",8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0002,short_direct,12,True,Who is the producer of Reds?,Warren Beatty,"The producer of the film ""Reds"" is **Warren Beatty**. 
+
+He also starred in the film, directed it, and wrote the screenplay.",8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0002,answer_briefly,6,True,Who was the producer of Reds? Answer briefly.,Warren Beatty,"**Answer:**  
+Warren Beatty",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ? | ▁Answer | ▁briefly | .
+fact_0002,answer_briefly,9,True,Who was the producer of Reds? Answer briefly.,Warren Beatty,"**Answer:**  
+Warren Beatty",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ? | ▁Answer | ▁briefly | .
+fact_0002,answer_briefly,12,True,Who was the producer of Reds? Answer briefly.,Warren Beatty,"**Answer:**  
+Warren Beatty",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ? | ▁Answer | ▁briefly | .
+fact_0002,no_explanation,6,False,Who was the producer of Reds? Give only the answer.,Warren Beatty,Oliver Stone,13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0002,no_explanation,9,False,Who was the producer of Reds? Give only the answer.,Warren Beatty,Oliver Stone,13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0002,no_explanation,12,False,Who was the producer of Reds? Give only the answer.,Warren Beatty,Oliver Stone,13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0002,direct_answer,6,True,Directly answer this factual question: Who was the producer of Reds?,Warren Beatty,"**Answer:**  
+Warren Beatty",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0002,direct_answer,9,True,Directly answer this factual question: Who was the producer of Reds?,Warren Beatty,"**Answer:**  
+Warren Beatty",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0002,direct_answer,12,True,Directly answer this factual question: Who was the producer of Reds?,Warren Beatty,"**Answer:**  
+Warren Beatty",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Reds | ?
+fact_0014,original,6,False,Who was the composer of The Mission?,Ennio Morricone,The Mission was composed by **James Horner**.,9,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0014,original,9,False,Who was the composer of The Mission?,Ennio Morricone,The Mission was composed by **James Horner**.,9,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0014,original,12,False,Who was the composer of The Mission?,Ennio Morricone,The Mission was composed by **James Horner**.,9,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0014,short_direct,6,True,Who is the composer of The Mission?,Ennio Morricone,The Mission was composed by **Ennio Morricone**.,9,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0014,short_direct,9,True,Who is the composer of The Mission?,Ennio Morricone,The Mission was composed by **Ennio Morricone**.,9,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0014,short_direct,12,True,Who is the composer of The Mission?,Ennio Morricone,The Mission was composed by **Ennio Morricone**.,9,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0014,answer_briefly,6,True,Who was the composer of The Mission? Answer briefly.,Ennio Morricone,**Answer:**  Ennio Morricone,12,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ? | ▁Answer | ▁briefly | .
+fact_0014,answer_briefly,9,True,Who was the composer of The Mission? Answer briefly.,Ennio Morricone,**Answer:**  Ennio Morricone,12,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ? | ▁Answer | ▁briefly | .
+fact_0014,answer_briefly,12,True,Who was the composer of The Mission? Answer briefly.,Ennio Morricone,**Answer:**  Ennio Morricone,12,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ? | ▁Answer | ▁briefly | .
+fact_0014,no_explanation,6,False,Who was the composer of The Mission? Give only the answer.,Ennio Morricone,Vangelis,14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0014,no_explanation,9,False,Who was the composer of The Mission? Give only the answer.,Ennio Morricone,Vangelis,14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0014,no_explanation,12,False,Who was the composer of The Mission? Give only the answer.,Ennio Morricone,Vangelis,14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0014,direct_answer,6,True,Directly answer this factual question: Who was the composer of The Mission?,Ennio Morricone,The composer of The Mission is **Ennio Morricone**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0014,direct_answer,9,True,Directly answer this factual question: Who was the composer of The Mission?,Ennio Morricone,The composer of The Mission is **Ennio Morricone**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0014,direct_answer,12,True,Directly answer this factual question: Who was the composer of The Mission?,Ennio Morricone,The composer of The Mission is **Ennio Morricone**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Mission | ?
+fact_0017,original,6,True,In what city was Gintautas Umaras born?,Kaunas,"**Answer:**  Kaunas, Lithuania",12,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ?
+fact_0017,original,9,True,In what city was Gintautas Umaras born?,Kaunas,"**Answer:**  Kaunas, Lithuania",12,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ?
+fact_0017,original,12,True,In what city was Gintautas Umaras born?,Kaunas,"**Answer:**  Kaunas, Lithuania",12,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ?
+fact_0017,answer_briefly,6,True,In what city was Gintautas Umaras born? Answer briefly.,Kaunas,"Gintautas Umaras was born in **Kaunas, Lithuania**.",15,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ? | ▁Answer | ▁briefly | .
+fact_0017,answer_briefly,9,True,In what city was Gintautas Umaras born? Answer briefly.,Kaunas,"Gintautas Umaras was born in **Kaunas, Lithuania**.",15,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ? | ▁Answer | ▁briefly | .
+fact_0017,answer_briefly,12,True,In what city was Gintautas Umaras born? Answer briefly.,Kaunas,"Gintautas Umaras was born in **Kaunas, Lithuania**.",15,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ? | ▁Answer | ▁briefly | .
+fact_0017,no_explanation,6,False,In what city was Gintautas Umaras born? Give only the answer.,Kaunas,Vilnius,17,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0017,no_explanation,9,False,In what city was Gintautas Umaras born? Give only the answer.,Kaunas,Vilnius,17,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0017,no_explanation,12,False,In what city was Gintautas Umaras born? Give only the answer.,Kaunas,Vilnius,17,<bos> | In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0017,direct_answer,6,True,Directly answer this factual question: In what city was Gintautas Umaras born?,Kaunas,**Answer:**  Kaunas,19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ?
+fact_0017,direct_answer,9,True,Directly answer this factual question: In what city was Gintautas Umaras born?,Kaunas,**Answer:**  Kaunas,19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ?
+fact_0017,direct_answer,12,True,Directly answer this factual question: In what city was Gintautas Umaras born?,Kaunas,**Answer:**  Kaunas,19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁In | ▁what | ▁city | ▁was | ▁G | inta | utas | ▁U | maras | ▁born | ?
+fact_0021,original,6,True,Who was the composer of Fame?,Michael Gore,"The composer of ""Fame"" is **Michael Gore**.",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0021,original,9,True,Who was the composer of Fame?,Michael Gore,"The composer of ""Fame"" is **Michael Gore**.",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0021,original,12,True,Who was the composer of Fame?,Michael Gore,"The composer of ""Fame"" is **Michael Gore**.",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0021,short_direct,6,True,Who is the composer of Fame?,Michael Gore,"The composer of the iconic musical ""Fame"" is **Michael Gore**.",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0021,short_direct,9,True,Who is the composer of Fame?,Michael Gore,"The composer of the iconic musical ""Fame"" is **Michael Gore**.",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0021,short_direct,12,True,Who is the composer of Fame?,Michael Gore,"The composer of the iconic musical ""Fame"" is **Michael Gore**.",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0021,answer_briefly,6,False,Who was the composer of Fame? Answer briefly.,Michael Gore,"**Answer:**  
+* **Tony Award-winning composer,  ** **8x Grammy Award winner** **, and ** **Broadway legend** **, ** **8x Tony Award winner",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ? | ▁Answer | ▁briefly | .
+fact_0021,answer_briefly,9,False,Who was the composer of Fame? Answer briefly.,Michael Gore,"**Answer:**  
+* **Tony Award-winning composer,  ** **8x Grammy Award winner** **, and ** **Broadway legend** **, ** **8x Tony Award winner",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ? | ▁Answer | ▁briefly | .
+fact_0021,answer_briefly,12,False,Who was the composer of Fame? Answer briefly.,Michael Gore,"**Answer:**  
+* **Tony Award-winning composer,  ** **8x Grammy Award winner** **, and ** **Broadway legend** **, ** **8x Tony Award winner",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ? | ▁Answer | ▁briefly | .
+fact_0021,no_explanation,6,False,Who was the composer of Fame? Give only the answer.,Michael Gore,John Williams,13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0021,no_explanation,9,False,Who was the composer of Fame? Give only the answer.,Michael Gore,John Williams,13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0021,no_explanation,12,False,Who was the composer of Fame? Give only the answer.,Michael Gore,John Williams,13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0021,direct_answer,6,True,Directly answer this factual question: Who was the composer of Fame?,Michael Gore,The composer of Fame is **Michael Gore**.,15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0021,direct_answer,9,True,Directly answer this factual question: Who was the composer of Fame?,Michael Gore,The composer of Fame is **Michael Gore**.,15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0021,direct_answer,12,True,Directly answer this factual question: Who was the composer of Fame?,Michael Gore,The composer of Fame is **Michael Gore**.,15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Fame | ?
+fact_0029,original,6,False,Who was the producer of Human Nature?,Quincy Jones,Human Nature was produced by **David Foster**.,9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,original,9,False,Who was the producer of Human Nature?,Quincy Jones,Human Nature was produced by **David Foster**.,9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,original,12,False,Who was the producer of Human Nature?,Quincy Jones,Human Nature was produced by **David Foster**.,9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,short_direct,6,True,Who is the producer of Human Nature?,Quincy Jones,"Human Nature is a musical group that has been around for a long time. They are known for their unique blend of pop, soul, and gospel music. 
+
+The group's producer has",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,short_direct,9,True,Who is the producer of Human Nature?,Quincy Jones,"Human Nature is a musical group that has been around for a long time. They are known for their unique blend of pop, soul, and gospel music. 
+
+The group's producer has",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,short_direct,12,True,Who is the producer of Human Nature?,Quincy Jones,"Human Nature is a musical group that has been around for a long time. They are known for their unique blend of pop, soul, and gospel music. 
+
+The group's producer has",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,answer_briefly,6,False,Who was the producer of Human Nature? Answer briefly.,Quincy Jones,**Answer:**  The producer of Human Nature is **David Foster**.,12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Answer | ▁briefly | .
+fact_0029,answer_briefly,9,False,Who was the producer of Human Nature? Answer briefly.,Quincy Jones,**Answer:**  The producer of Human Nature is **David Foster**.,12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Answer | ▁briefly | .
+fact_0029,answer_briefly,12,False,Who was the producer of Human Nature? Answer briefly.,Quincy Jones,**Answer:**  The producer of Human Nature is **David Foster**.,12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Answer | ▁briefly | .
+fact_0029,no_explanation,6,False,Who was the producer of Human Nature? Give only the answer.,Quincy Jones,John Shanks,14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0029,no_explanation,9,False,Who was the producer of Human Nature? Give only the answer.,Quincy Jones,John Shanks,14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0029,no_explanation,12,False,Who was the producer of Human Nature? Give only the answer.,Quincy Jones,John Shanks,14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0029,direct_answer,6,False,Directly answer this factual question: Who was the producer of Human Nature?,Quincy Jones,The producer of Human Nature is **David Foster**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,direct_answer,9,False,Directly answer this factual question: Who was the producer of Human Nature?,Quincy Jones,The producer of Human Nature is **David Foster**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,direct_answer,12,False,Directly answer this factual question: Who was the producer of Human Nature?,Quincy Jones,The producer of Human Nature is **David Foster**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0034,original,6,False,Who is the father of Philip III of Macedon?,Philip II of Macedon,The father of Philip III of Macedon was **King Amyntas III of Macedon**.,12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,original,9,False,Who is the father of Philip III of Macedon?,Philip II of Macedon,The father of Philip III of Macedon was **King Amyntas III of Macedon**.,12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,original,12,False,Who is the father of Philip III of Macedon?,Philip II of Macedon,The father of Philip III of Macedon was **King Amyntas III of Macedon**.,12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,answer_briefly,6,True,Who is the father of Philip III of Macedon? Answer briefly.,Philip II of Macedon,Philip II of Macedon was the father of Philip III of Macedon.,15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Answer | ▁briefly | .
+fact_0034,answer_briefly,9,True,Who is the father of Philip III of Macedon? Answer briefly.,Philip II of Macedon,Philip II of Macedon was the father of Philip III of Macedon.,15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Answer | ▁briefly | .
+fact_0034,answer_briefly,12,True,Who is the father of Philip III of Macedon? Answer briefly.,Philip II of Macedon,Philip II of Macedon was the father of Philip III of Macedon.,15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Answer | ▁briefly | .
+fact_0034,no_explanation,6,True,Who is the father of Philip III of Macedon? Give only the answer.,Philip II of Macedon,Philip II of Macedon.,17,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0034,no_explanation,9,True,Who is the father of Philip III of Macedon? Give only the answer.,Philip II of Macedon,Philip II of Macedon.,17,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0034,no_explanation,12,True,Who is the father of Philip III of Macedon? Give only the answer.,Philip II of Macedon,Philip II of Macedon.,17,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0034,direct_answer,6,True,Directly answer this factual question: Who is the father of Philip III of Macedon?,Philip II of Macedon,**Answer:**  Philip II of Macedon,19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,direct_answer,9,True,Directly answer this factual question: Who is the father of Philip III of Macedon?,Philip II of Macedon,**Answer:**  Philip II of Macedon,19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,direct_answer,12,True,Directly answer this factual question: Who is the father of Philip III of Macedon?,Philip II of Macedon,**Answer:**  Philip II of Macedon,19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0041,original,6,False,Who was the director of After Hours?,Martin Scorsese,The director of After Hours is **Danny McBride**.,9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,original,9,False,Who was the director of After Hours?,Martin Scorsese,The director of After Hours is **Danny McBride**.,9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,original,12,False,Who was the director of After Hours?,Martin Scorsese,The director of After Hours is **Danny McBride**.,9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,short_direct,6,False,Who is the director of After Hours?,Martin Scorsese,The director of After Hours is **Danny McBride**.,9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,short_direct,9,False,Who is the director of After Hours?,Martin Scorsese,The director of After Hours is **Danny McBride**.,9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,short_direct,12,False,Who is the director of After Hours?,Martin Scorsese,The director of After Hours is **Danny McBride**.,9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,answer_briefly,6,False,Who was the director of After Hours? Answer briefly.,Martin Scorsese,**Answer:**  Danny Boyle,12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Answer | ▁briefly | .
+fact_0041,answer_briefly,9,False,Who was the director of After Hours? Answer briefly.,Martin Scorsese,**Answer:**  Danny Boyle,12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Answer | ▁briefly | .
+fact_0041,answer_briefly,12,False,Who was the director of After Hours? Answer briefly.,Martin Scorsese,**Answer:**  Danny Boyle,12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Answer | ▁briefly | .
+fact_0041,no_explanation,6,True,Who was the director of After Hours? Give only the answer.,Martin Scorsese,"Danny Boyle
+David Fincher
+Martin Scorsese
+Spike Lee
+**David Fincher**",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0041,no_explanation,9,True,Who was the director of After Hours? Give only the answer.,Martin Scorsese,"Danny Boyle
+David Fincher
+Martin Scorsese
+Spike Lee
+**David Fincher**",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0041,no_explanation,12,True,Who was the director of After Hours? Give only the answer.,Martin Scorsese,"Danny Boyle
+David Fincher
+Martin Scorsese
+Spike Lee
+**David Fincher**",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0041,direct_answer,6,True,Directly answer this factual question: Who was the director of After Hours?,Martin Scorsese,The director of After Hours is **Martin Scorsese**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,direct_answer,9,True,Directly answer this factual question: Who was the director of After Hours?,Martin Scorsese,The director of After Hours is **Martin Scorsese**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,direct_answer,12,True,Directly answer this factual question: Who was the director of After Hours?,Martin Scorsese,The director of After Hours is **Martin Scorsese**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0043,original,6,True,Who was the composer of The Social Network?,Trent Reznor,The Social Network's score was composed by **Trent Reznor** and **Atticus Ross**.,10,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0043,original,9,True,Who was the composer of The Social Network?,Trent Reznor,The Social Network's score was composed by **Trent Reznor** and **Atticus Ross**.,10,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0043,original,12,True,Who was the composer of The Social Network?,Trent Reznor,The Social Network's score was composed by **Trent Reznor** and **Atticus Ross**.,10,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0043,short_direct,6,True,Who is the composer of The Social Network?,Trent Reznor,The Social Network's score was composed by **Trent Reznor** and **Atticus Ross**.,10,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0043,short_direct,9,True,Who is the composer of The Social Network?,Trent Reznor,The Social Network's score was composed by **Trent Reznor** and **Atticus Ross**.,10,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0043,short_direct,12,True,Who is the composer of The Social Network?,Trent Reznor,The Social Network's score was composed by **Trent Reznor** and **Atticus Ross**.,10,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0043,answer_briefly,6,True,Who was the composer of The Social Network? Answer briefly.,Trent Reznor,"**Answer:**  The score for ""The Social Network"" was composed by **Trent Reznor** and **Atticus Ross**.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ? | ▁Answer | ▁briefly | .
+fact_0043,answer_briefly,9,True,Who was the composer of The Social Network? Answer briefly.,Trent Reznor,"**Answer:**  The score for ""The Social Network"" was composed by **Trent Reznor** and **Atticus Ross**.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ? | ▁Answer | ▁briefly | .
+fact_0043,answer_briefly,12,True,Who was the composer of The Social Network? Answer briefly.,Trent Reznor,"**Answer:**  The score for ""The Social Network"" was composed by **Trent Reznor** and **Atticus Ross**.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ? | ▁Answer | ▁briefly | .
+fact_0043,no_explanation,6,False,Who was the composer of The Social Network? Give only the answer.,Trent Reznor,John Williams,15,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0043,no_explanation,9,False,Who was the composer of The Social Network? Give only the answer.,Trent Reznor,John Williams,15,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0043,no_explanation,12,False,Who was the composer of The Social Network? Give only the answer.,Trent Reznor,John Williams,15,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0043,direct_answer,6,True,Directly answer this factual question: Who was the composer of The Social Network?,Trent Reznor,The composer of The Social Network is **Trent Reznor**.,17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0043,direct_answer,9,True,Directly answer this factual question: Who was the composer of The Social Network?,Trent Reznor,The composer of The Social Network is **Trent Reznor**.,17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0043,direct_answer,12,True,Directly answer this factual question: Who was the composer of The Social Network?,Trent Reznor,The composer of The Social Network is **Trent Reznor**.,17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁The | ▁Social | ▁Network | ?
+fact_0049,original,6,True,Who was the producer of Precious?,Lee Daniels,The producer of the movie Precious was **Lee Daniels**.,8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,original,9,True,Who was the producer of Precious?,Lee Daniels,The producer of the movie Precious was **Lee Daniels**.,8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,original,12,True,Who was the producer of Precious?,Lee Daniels,The producer of the movie Precious was **Lee Daniels**.,8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,short_direct,6,True,Who is the producer of Precious?,Lee Daniels,The producer of the movie Precious is **Lee Daniels**.,8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,short_direct,9,True,Who is the producer of Precious?,Lee Daniels,The producer of the movie Precious is **Lee Daniels**.,8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,short_direct,12,True,Who is the producer of Precious?,Lee Daniels,The producer of the movie Precious is **Lee Daniels**.,8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,answer_briefly,6,False,Who was the producer of Precious? Answer briefly.,Lee Daniels,"**Answer:**  
+Geoffrey Fletcher",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Answer | ▁briefly | .
+fact_0049,answer_briefly,9,False,Who was the producer of Precious? Answer briefly.,Lee Daniels,"**Answer:**  
+Geoffrey Fletcher",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Answer | ▁briefly | .
+fact_0049,answer_briefly,12,False,Who was the producer of Precious? Answer briefly.,Lee Daniels,"**Answer:**  
+Geoffrey Fletcher",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Answer | ▁briefly | .
+fact_0049,no_explanation,6,True,Who was the producer of Precious? Give only the answer.,Lee Daniels,Lee Daniels,13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0049,no_explanation,9,True,Who was the producer of Precious? Give only the answer.,Lee Daniels,Lee Daniels,13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0049,no_explanation,12,True,Who was the producer of Precious? Give only the answer.,Lee Daniels,Lee Daniels,13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0049,direct_answer,6,True,Directly answer this factual question: Who was the producer of Precious?,Lee Daniels,The answer is: **Lee Daniels**.,15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,direct_answer,9,True,Directly answer this factual question: Who was the producer of Precious?,Lee Daniels,The answer is: **Lee Daniels**.,15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,direct_answer,12,True,Directly answer this factual question: Who was the producer of Precious?,Lee Daniels,The answer is: **Lee Daniels**.,15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0051,original,6,False,Who was the composer of Petrushka chord?,Igor Stravinsky,"The Petrushka chord is a famous musical motif, often used in film and television. It is a dissonant chord that is both beautiful and unsettling. 
+
+The composer of the Pet",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,original,9,False,Who was the composer of Petrushka chord?,Igor Stravinsky,"The Petrushka chord is a famous musical motif, often used in film and television. It is a dissonant chord that is both beautiful and unsettling. 
+
+The composer of the Pet",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,original,12,False,Who was the composer of Petrushka chord?,Igor Stravinsky,"The Petrushka chord is a famous musical motif, often used in film and television. It is a dissonant chord that is both beautiful and unsettling. 
+
+The composer of the Pet",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,short_direct,6,True,Who is the composer of Petrushka chord?,Igor Stravinsky,"The Petrushka chord is a famous musical motif from Igor Stravinsky's ballet, *Petrushka*. 
+
+It's not a single chord, but a **short,",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,short_direct,9,True,Who is the composer of Petrushka chord?,Igor Stravinsky,"The Petrushka chord is a famous musical motif from Igor Stravinsky's ballet, *Petrushka*. 
+
+It's not a single chord, but a **short,",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,short_direct,12,True,Who is the composer of Petrushka chord?,Igor Stravinsky,"The Petrushka chord is a famous musical motif from Igor Stravinsky's ballet, *Petrushka*. 
+
+It's not a single chord, but a **short,",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,answer_briefly,6,True,Who was the composer of Petrushka chord? Answer briefly.,Igor Stravinsky,**Answer:** Igor Stravinsky,14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Answer | ▁briefly | .
+fact_0051,answer_briefly,9,True,Who was the composer of Petrushka chord? Answer briefly.,Igor Stravinsky,**Answer:** Igor Stravinsky,14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Answer | ▁briefly | .
+fact_0051,answer_briefly,12,True,Who was the composer of Petrushka chord? Answer briefly.,Igor Stravinsky,**Answer:** Igor Stravinsky,14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Answer | ▁briefly | .
+fact_0051,no_explanation,6,True,Who was the composer of Petrushka chord? Give only the answer.,Igor Stravinsky,Igor Stravinsky,16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0051,no_explanation,9,True,Who was the composer of Petrushka chord? Give only the answer.,Igor Stravinsky,Igor Stravinsky,16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0051,no_explanation,12,True,Who was the composer of Petrushka chord? Give only the answer.,Igor Stravinsky,Igor Stravinsky,16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0051,direct_answer,6,True,Directly answer this factual question: Who was the composer of Petrushka chord?,Igor Stravinsky,The composer of the Petrushka chord is **Igor Stravinsky**.,18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,direct_answer,9,True,Directly answer this factual question: Who was the composer of Petrushka chord?,Igor Stravinsky,The composer of the Petrushka chord is **Igor Stravinsky**.,18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,direct_answer,12,True,Directly answer this factual question: Who was the composer of Petrushka chord?,Igor Stravinsky,The composer of the Petrushka chord is **Igor Stravinsky**.,18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0053,original,6,True,Who was the producer of The Fog?,Debra Hill,The Fog was produced by **John Carpenter**.,9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,original,9,True,Who was the producer of The Fog?,Debra Hill,The Fog was produced by **John Carpenter**.,9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,original,12,True,Who was the producer of The Fog?,Debra Hill,The Fog was produced by **John Carpenter**.,9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,short_direct,6,True,Who is the producer of The Fog?,Debra Hill,"(1980)
+
+The Fog is a 1980 horror film directed by John Carpenter. 
+
+The film's producer was **John Carpenter**.",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,short_direct,9,True,Who is the producer of The Fog?,Debra Hill,"(1980)
+
+The Fog is a 1980 horror film directed by John Carpenter. 
+
+The film's producer was **John Carpenter**.",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,short_direct,12,True,Who is the producer of The Fog?,Debra Hill,"(1980)
+
+The Fog is a 1980 horror film directed by John Carpenter. 
+
+The film's producer was **John Carpenter**.",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,answer_briefly,6,True,Who was the producer of The Fog? Answer briefly.,Debra Hill,**Answer:**  John Carpenter,12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Answer | ▁briefly | .
+fact_0053,answer_briefly,9,True,Who was the producer of The Fog? Answer briefly.,Debra Hill,**Answer:**  John Carpenter,12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Answer | ▁briefly | .
+fact_0053,answer_briefly,12,True,Who was the producer of The Fog? Answer briefly.,Debra Hill,**Answer:**  John Carpenter,12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Answer | ▁briefly | .
+fact_0053,no_explanation,6,True,Who was the producer of The Fog? Give only the answer.,Debra Hill,John Carpenter,14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0053,no_explanation,9,True,Who was the producer of The Fog? Give only the answer.,Debra Hill,John Carpenter,14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0053,no_explanation,12,True,Who was the producer of The Fog? Give only the answer.,Debra Hill,John Carpenter,14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0053,direct_answer,6,False,Directly answer this factual question: Who was the producer of The Fog?,Debra Hill,The Fog was produced by **James Cameron**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,direct_answer,9,False,Directly answer this factual question: Who was the producer of The Fog?,Debra Hill,The Fog was produced by **James Cameron**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,direct_answer,12,False,Directly answer this factual question: Who was the producer of The Fog?,Debra Hill,The Fog was produced by **James Cameron**.,16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0057,original,6,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! was **David Zucker**.,17,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,original,9,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! was **David Zucker**.,17,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,original,12,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! was **David Zucker**.,17,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,short_direct,6,True,Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! is **David Zucker**.,17,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,short_direct,9,True,Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! is **David Zucker**.,17,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,short_direct,12,True,Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! is **David Zucker**.,17,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,answer_briefly,6,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,Pat Proft,"**Answer:**  
+* Leslie Nielsen 
+ 
+**Explanation:** 
+Leslie Nielsen was the star of the film and also wrote the screenplay.",20,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Answer | ▁briefly | .
+fact_0057,answer_briefly,9,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,Pat Proft,"**Answer:**  
+* Leslie Nielsen 
+ 
+**Explanation:** 
+Leslie Nielsen was the star of the film and also wrote the screenplay.",20,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Answer | ▁briefly | .
+fact_0057,answer_briefly,12,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,Pat Proft,"**Answer:**  
+* Leslie Nielsen 
+ 
+**Explanation:** 
+Leslie Nielsen was the star of the film and also wrote the screenplay.",20,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Answer | ▁briefly | .
+fact_0057,no_explanation,6,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,Pat Proft,Leslie Nielsen,22,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0057,no_explanation,9,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,Pat Proft,Leslie Nielsen,22,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0057,no_explanation,12,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,Pat Proft,Leslie Nielsen,22,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0057,direct_answer,6,True,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! was **David Zucker**.,24,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,direct_answer,9,True,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! was **David Zucker**.,24,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,direct_answer,12,True,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,The screenwriter for The Naked Gun: From the Files of Police Squad! was **David Zucker**.,24,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
