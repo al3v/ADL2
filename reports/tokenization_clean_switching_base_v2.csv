@@ -1,0 +1,67 @@
+fact_id,variant_id,is_correct,correct_answer,question,n_tokens,tokens,token_ids,generated_answer
+fact_0024,original,True,Robert Kardashian,Who is the father of Kim Kardashian?,8,Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?,2 6571 603 573 5842 576 11348 78963 235336,"Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the mother of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the father"
+fact_0024,direct_answer,False,Robert Kardashian,Directly answer this factual question: Who is the father of Kim Kardashian?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 5842 576 11348 78963 235336,"The answer is Kanye West.
+
+But the question is a bit more complicated than that.
+
+Kim Kardashian and Kanye West have been married for six years.
+
+They have four children together."
+fact_0028,answer_briefly,True,Alexander Melville Bell,Who is the father of Alexander Graham Bell? Answer briefly.,12,Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Answer | ▁briefly | .,2 6571 603 573 5842 576 16188 26629 15363 235336 10358 27918 235265,"Who is the father of Alexander Graham Bell?
+
+Alexander Graham Bell was born on March 3, 1847, in Edinburgh, Scotland. He was the son of Alexander Melville Bell"
+fact_0028,direct_answer,False,Alexander Melville Bell,Directly answer this factual question: Who is the father of Alexander Graham Bell?,16,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 5842 576 16188 26629 15363 235336,"The answer is: <strong>Alexander Graham Bell</strong>.
+
+Alexander Graham Bell was born on March 3, 1847 in Edinburgh, Scotland. He was the son of Alexander Melville"
+fact_0029,short_direct,False,Quincy Jones,Who is the producer of Human Nature?,8,Who | ▁is | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?,2 6571 603 573 21709 576 9998 12734 235336,"Human Nature is a group of four brothers from the Philippines. They are brothers Jerald, Michael, Reynan, and Rafael. They are the sons of a Filipino-American father and a Filipino"
+fact_0029,direct_answer,True,Quincy Jones,Directly answer this factual question: Who was the producer of Human Nature?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 21709 576 9998 12734 235336,"The answer is: <strong>The producer of Human Nature is the American singer and songwriter Michael Jackson.</strong>
+
+Michael Jackson is a legendary figure in the world of music, known for his unique style"
+fact_0041,short_direct,False,Martin Scorsese,Who is the director of After Hours?,8,Who | ▁is | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?,2 6571 603 573 8453 576 4660 21402 235336,"After Hours is a 2013 American comedy-drama film written and directed by Sam Levinson. It stars Jamie Dornan, Jennifer Hudson, and James Franco.
+
+What is the plot"
+fact_0041,direct_answer,True,Martin Scorsese,Directly answer this factual question: Who was the director of After Hours?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 8453 576 4660 21402 235336,"The answer is Martin Scorsese.
+
+The question is a little more complicated than that.
+
+The question is: Who was the director of After Hours?
+
+The answer is Martin Scorsese.
+
+The"
+fact_0049,short_direct,False,Lee Daniels,Who is the producer of Precious?,7,Who | ▁is | ▁the | ▁producer | ▁of | ▁Precious | ?,2 6571 603 573 21709 576 133088 235336,"Who is the director of Precious?
+
+What is the name of the character played by Mo'Nique?
+
+What is the name of the character played by Gabourey Sidibe?"
+fact_0049,direct_answer,True,Lee Daniels,Directly answer this factual question: Who was the producer of Precious?,14,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 21709 576 133088 235336,"The answer is: <strong>Lee Daniels.</strong>
+
+Lee Daniels is an American film director, producer, and screenwriter. He is best known for his work on the films Precious: Based on the"
+fact_0051,original,False,Igor Stravinsky,Who was the composer of Petrushka chord?,10,Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?,2 6571 729 573 41905 576 7040 53984 1161 50591 235336,"[User 0001]
+
+I'm trying to find out who composed the chord that is used in the song Petrushka. I've heard it used in a lot"
+fact_0051,short_direct,False,Igor Stravinsky,Who is the composer of Petrushka chord?,10,Who | ▁is | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?,2 6571 603 573 41905 576 7040 53984 1161 50591 235336,"[User 0001]
+
+I'm trying to find out who composed the chord that is played in the beginning of Petrushka. I've heard it in the movie"
+fact_0051,direct_answer,True,Igor Stravinsky,Directly answer this factual question: Who was the composer of Petrushka chord?,17,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 41905 576 7040 53984 1161 50591 235336,"The answer is: <strong>Igor Stravinsky.</strong>
+
+Petrushka is a famous ballet composed by Igor Stravinsky in 1911. The ballet is based on the"
+fact_0057,answer_briefly,True,Pat Proft,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,19,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Answer | ▁briefly | .,2 6571 729 573 191114 604 714 122568 17083 235292 4845 573 25798 576 12543 38098 29675 10358 27918 235265,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and"
+fact_0057,no_explanation,True,Pat Proft,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,21,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 191114 604 714 122568 17083 235292 4845 573 25798 576 12543 38098 29675 18712 1297 573 3448 235265,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and"
+fact_0057,direct_answer,False,Pat Proft,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,23,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 191114 604 714 122568 17083 235292 4845 573 25798 576 12543 38098 29675,"The answer is:
+
+<blockquote><strong>Leslie Dixon</strong></blockquote>
+
+Leslie Dixon is a screenwriter, producer, and director. She is best known for her work on the 1988 film"
+fact_0059,short_direct,True,Stirling Silliphant,Who is the screenwriter for Over the Top?,9,Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?,2 6571 603 573 191114 604 6136 573 6835 235336,"Over the Top is a 1987 American action comedy film directed by John Carl Buechler and written by David Twohy. The film stars Sylvester Stallone, Robert Loggia,"
+fact_0059,direct_answer,False,Stirling Silliphant,Directly answer this factual question: Who was the screenwriter for Over the Top?,16,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 191114 604 6136 573 6835 235336,"The answer is:
+
+<strong>John Sayles</strong>
+
+John Sayles is an American screenwriter, director, and actor. He is best known for his work on the films <em>The Brother from"
