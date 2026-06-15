@@ -1,0 +1,647 @@
+fact_id,variant_id,is_correct,correct_answer,question,n_tokens,tokens,token_ids,generated_answer
+fact_0004,original,False,John Kander,Who was the composer of Cabaret?,8,Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ?,2 6571 729 573 41905 576 585 152763 235336,"Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the"
+fact_0004,short_direct,False,John Kander,Who is the composer of Cabaret?,8,Who | ▁is | ▁the | ▁composer | ▁of | ▁C | abaret | ?,2 6571 603 573 41905 576 585 152763 235336,"Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the"
+fact_0004,answer_briefly,False,John Kander,Who was the composer of Cabaret? Answer briefly.,11,Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ? | ▁Answer | ▁briefly | .,2 6571 729 573 41905 576 585 152763 235336 10358 27918 235265,"Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the"
+fact_0004,no_explanation,False,John Kander,Who was the composer of Cabaret? Give only the answer.,13,Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 41905 576 585 152763 235336 18712 1297 573 3448 235265,"Who was the composer of Cabaret? Give only the answer.
+
+Who was the composer of Cabaret? Give only the answer.
+
+Who was the composer of Cabaret? Give only the"
+fact_0004,direct_answer,True,John Kander,Directly answer this factual question: Who was the composer of Cabaret?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 41905 576 585 152763 235336,"The answer is: <strong>Kander and Ebb.</strong>
+
+The musical Cabaret is a musical that was written by John Kander and Fred Ebb. The musical was first performed in"
+fact_0007,original,False,Nuri Bilge Ceylan,Who was the screenwriter for Uzak?,8,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?,2 6571 729 573 191114 604 752 33033 235336,"Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the"
+fact_0007,short_direct,True,Nuri Bilge Ceylan,Who is the screenwriter for Uzak?,8,Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?,2 6571 603 573 191114 604 752 33033 235336,Uzak is a 2018 Turkish drama film directed by Nuri Bilge Ceylan. The film is based on the novel of the same name by Orhan Pamuk. The
+fact_0007,answer_briefly,False,Nuri Bilge Ceylan,Who was the screenwriter for Uzak? Answer briefly.,11,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ? | ▁Answer | ▁briefly | .,2 6571 729 573 191114 604 752 33033 235336 10358 27918 235265,"Who was the screenwriter for Uzak?
+
+Answer briefly.
+
+Who was the screenwriter for Uzak?
+
+Answer briefly.
+
+Who was the screenwriter for Uzak?
+
+Answer briefly."
+fact_0007,no_explanation,False,Nuri Bilge Ceylan,Who was the screenwriter for Uzak? Give only the answer.,13,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 191114 604 752 33033 235336 18712 1297 573 3448 235265,"Who was the screenwriter for Uzak? Give only the answer.
+
+Who was the screenwriter for Uzak? Give only the answer.
+
+Who was the screenwriter for Uzak? Give only the"
+fact_0007,direct_answer,True,Nuri Bilge Ceylan,Directly answer this factual question: Who was the screenwriter for Uzak?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 191114 604 752 33033 235336,"The answer is: <strong>Nuri Bilge Ceylan</strong>.
+
+Nuri Bilge Ceylan is a Turkish director, screenwriter, and producer. He is best known for his films U"
+fact_0008,original,True,Alexander Payne,Who was the producer of The Descendants?,9,Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?,2 6571 729 573 21709 576 714 57084 26323 235336,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. It stars George Clooney, Shailene Woodley,"
+fact_0008,short_direct,True,Alexander Payne,Who is the producer of The Descendants?,9,Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?,2 6571 603 573 21709 576 714 57084 26323 235336,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. It stars George Clooney, Shailene Woodley,"
+fact_0008,answer_briefly,True,Alexander Payne,Who was the producer of The Descendants? Answer briefly.,12,Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ? | ▁Answer | ▁briefly | .,2 6571 729 573 21709 576 714 57084 26323 235336 10358 27918 235265,"Who was the producer of The Descendants?
+
+The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash."
+fact_0008,no_explanation,False,Alexander Payne,Who was the producer of The Descendants? Give only the answer.,14,Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 21709 576 714 57084 26323 235336 18712 1297 573 3448 235265,"Who was the producer of The Descendants? Give only the answer.
+
+Who was the producer of The Descendants? Give only the answer.
+
+Who was the producer of The Descendants?"
+fact_0008,direct_answer,True,Alexander Payne,Directly answer this factual question: Who was the producer of The Descendants?,16,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 21709 576 714 57084 26323 235336,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. The film stars George Clooney, Shailene Woodley"
+fact_0013,original,False,Oliver Stone,Who was the director of The Doors?,8,Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?,2 6571 729 573 8453 576 714 56180 235336,"Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the"
+fact_0013,short_direct,True,Oliver Stone,Who is the director of The Doors?,8,Who | ▁is | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?,2 6571 603 573 8453 576 714 56180 235336,"The Doors was directed by Oliver Stone.
+
+Who is the director of The Doors?
+
+Oliver Stone
+
+Who is the director of The Doors?
+
+Oliver Stone
+
+Who is the director of The"
+fact_0013,answer_briefly,False,Oliver Stone,Who was the director of The Doors? Answer briefly.,11,Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ? | ▁Answer | ▁briefly | .,2 6571 729 573 8453 576 714 56180 235336 10358 27918 235265,"Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the"
+fact_0013,no_explanation,False,Oliver Stone,Who was the director of The Doors? Give only the answer.,13,Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 8453 576 714 56180 235336 18712 1297 573 3448 235265,"Who was the director of The Doors? Give only the answer.
+
+Who was the director of The Doors? Give only the answer.
+
+Who was the director of The Doors? Give only the"
+fact_0013,direct_answer,True,Oliver Stone,Directly answer this factual question: Who was the director of The Doors?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 8453 576 714 56180 235336,"The answer is Oliver Stone.
+
+The Doors was a 1991 biopic about the band The Doors. The film was directed by Oliver Stone and starred Val Kilmer as Jim Morrison"
+fact_0015,original,False,Robert Altman,Who was the director of Nashville?,7,Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ?,2 6571 729 573 8453 576 47882 235336,"Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?"
+fact_0015,short_direct,False,Robert Altman,Who is the director of Nashville?,7,Who | ▁is | ▁the | ▁director | ▁of | ▁Nashville | ?,2 6571 603 573 8453 576 47882 235336,"Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?"
+fact_0015,answer_briefly,False,Robert Altman,Who was the director of Nashville? Answer briefly.,10,Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ? | ▁Answer | ▁briefly | .,2 6571 729 573 8453 576 47882 235336 10358 27918 235265,"Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?"
+fact_0015,no_explanation,False,Robert Altman,Who was the director of Nashville? Give only the answer.,12,Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 8453 576 47882 235336 18712 1297 573 3448 235265,"Who was the director of Nashville? Give only the answer.
+
+Who was the director of Nashville? Give only the answer.
+
+Who was the director of Nashville? Give only the answer."
+fact_0015,direct_answer,True,Robert Altman,Directly answer this factual question: Who was the director of Nashville?,14,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 8453 576 47882 235336,"The answer is: <strong>Robert Altman.</strong>
+
+Robert Altman is an American director, screenwriter, producer and actor. He is known for his unique style of directing and his ability to create complex"
+fact_0016,original,False,Henrik Ibsen,Who is the author of The Wild Duck?,9,Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ?,2 6571 603 573 3426 576 714 11976 34851 235336,"Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?"
+fact_0016,answer_briefly,False,Henrik Ibsen,Who is the author of The Wild Duck? Answer briefly.,12,Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ? | ▁Answer | ▁briefly | .,2 6571 603 573 3426 576 714 11976 34851 235336 10358 27918 235265,"Who is the author of The Wild Duck? Answer briefly.
+
+Who is the author of The Wild Duck? Answer briefly.
+
+Who is the author of The Wild Duck? Answer briefly."
+fact_0016,no_explanation,False,Henrik Ibsen,Who is the author of The Wild Duck? Give only the answer.,14,Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 603 573 3426 576 714 11976 34851 235336 18712 1297 573 3448 235265,"Who is the author of The Wild Duck? Give only the answer.
+
+Who is the author of The Wild Duck? Give only the answer.
+
+Who is the author of The Wild Duck?"
+fact_0016,direct_answer,True,Henrik Ibsen,Directly answer this factual question: Who is the author of The Wild Duck?,16,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 3426 576 714 11976 34851 235336,"The author of The Wild Duck is Henrik Ibsen.
+
+The Wild Duck is a play by Henrik Ibsen. It was first performed in 1884. The play is set in a small"
+fact_0019,original,False,John Lennon,Who was the composer of Imagine?,7,Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ?,2 6571 729 573 41905 576 43540 235336,"Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?"
+fact_0019,short_direct,False,John Lennon,Who is the composer of Imagine?,7,Who | ▁is | ▁the | ▁composer | ▁of | ▁Imagine | ?,2 6571 603 573 41905 576 43540 235336,"Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?"
+fact_0019,answer_briefly,False,John Lennon,Who was the composer of Imagine? Answer briefly.,10,Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ? | ▁Answer | ▁briefly | .,2 6571 729 573 41905 576 43540 235336 10358 27918 235265,"Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine"
+fact_0019,no_explanation,False,John Lennon,Who was the composer of Imagine? Give only the answer.,12,Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 41905 576 43540 235336 18712 1297 573 3448 235265,"Who was the composer of Imagine? Give only the answer.
+
+Who was the composer of Imagine? Give only the answer.
+
+Who was the composer of Imagine? Give only the answer."
+fact_0019,direct_answer,True,John Lennon,Directly answer this factual question: Who was the composer of Imagine?,14,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 41905 576 43540 235336,"The answer is John Lennon.
+
+But the question is a bit misleading.
+
+The question is not, “Who was the composer of Imagine?”
+
+The question is, “Who was the composer"
+fact_0024,original,True,Robert Kardashian,Who is the father of Kim Kardashian?,8,Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?,2 6571 603 573 5842 576 11348 78963 235336,"Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the mother of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the father"
+fact_0024,answer_briefly,True,Robert Kardashian,Who is the father of Kim Kardashian? Answer briefly.,11,Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ? | ▁Answer | ▁briefly | .,2 6571 603 573 5842 576 11348 78963 235336 10358 27918 235265,"Who is the father of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Kim Kardashian is the"
+fact_0024,no_explanation,False,Robert Kardashian,Who is the father of Kim Kardashian? Give only the answer.,13,Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 603 573 5842 576 11348 78963 235336 18712 1297 573 3448 235265,"Who is the father of Kim Kardashian? Give only the answer.
+
+Who is the father of Kim Kardashian? Give only the answer.
+
+Who is the father of Kim Kardashian? Give only the"
+fact_0024,direct_answer,False,Robert Kardashian,Directly answer this factual question: Who is the father of Kim Kardashian?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 5842 576 11348 78963 235336,"The answer is Kanye West.
+
+But the question is a bit more complicated than that.
+
+Kim Kardashian and Kanye West have been married for six years.
+
+They have four children together."
+fact_0026,original,False,Frank Zappa,Who was the producer of Hot Rats?,8,Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?,2 6571 729 573 21709 576 14449 87402 235336,"Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the"
+fact_0026,short_direct,False,Frank Zappa,Who is the producer of Hot Rats?,8,Who | ▁is | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?,2 6571 603 573 21709 576 14449 87402 235336,"Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the"
+fact_0026,answer_briefly,False,Frank Zappa,Who was the producer of Hot Rats? Answer briefly.,11,Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ? | ▁Answer | ▁briefly | .,2 6571 729 573 21709 576 14449 87402 235336 10358 27918 235265,"Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the"
+fact_0026,no_explanation,False,Frank Zappa,Who was the producer of Hot Rats? Give only the answer.,13,Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 21709 576 14449 87402 235336 18712 1297 573 3448 235265,"Who was the producer of Hot Rats? Give only the answer.
+
+Who was the producer of Hot Rats? Give only the answer.
+
+Who was the producer of Hot Rats? Give only the"
+fact_0026,direct_answer,True,Frank Zappa,Directly answer this factual question: Who was the producer of Hot Rats?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 21709 576 14449 87402 235336,"The answer is: <strong>Frank Zappa.</strong>
+
+Frank Zappa was a musician, composer, and producer who was born in 1940 and died in 1993."
+fact_0027,original,False,Charles Strouse,Who was the composer of Annie?,7,Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ?,2 6571 729 573 41905 576 44038 235336,"Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?"
+fact_0027,short_direct,False,Charles Strouse,Who is the composer of Annie?,7,Who | ▁is | ▁the | ▁composer | ▁of | ▁Annie | ?,2 6571 603 573 41905 576 44038 235336,"Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?"
+fact_0027,answer_briefly,False,Charles Strouse,Who was the composer of Annie? Answer briefly.,10,Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ? | ▁Answer | ▁briefly | .,2 6571 729 573 41905 576 44038 235336 10358 27918 235265,"Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?"
+fact_0027,no_explanation,False,Charles Strouse,Who was the composer of Annie? Give only the answer.,12,Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 41905 576 44038 235336 18712 1297 573 3448 235265,"Who was the composer of Annie? Give only the answer.
+
+Who was the composer of Annie? Give only the answer.
+
+Who was the composer of Annie? Give only the answer."
+fact_0027,direct_answer,True,Charles Strouse,Directly answer this factual question: Who was the composer of Annie?,14,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 41905 576 44038 235336,"The answer is: <strong>Charles Strouse.</strong>
+
+Charles Strouse is an American composer, lyricist and playwright. He is best known for his work on the musical Annie, which was"
+fact_0028,original,False,Alexander Melville Bell,Who is the father of Alexander Graham Bell?,9,Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?,2 6571 603 573 5842 576 16188 26629 15363 235336,"Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?"
+fact_0028,answer_briefly,True,Alexander Melville Bell,Who is the father of Alexander Graham Bell? Answer briefly.,12,Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Answer | ▁briefly | .,2 6571 603 573 5842 576 16188 26629 15363 235336 10358 27918 235265,"Who is the father of Alexander Graham Bell?
+
+Alexander Graham Bell was born on March 3, 1847, in Edinburgh, Scotland. He was the son of Alexander Melville Bell"
+fact_0028,no_explanation,False,Alexander Melville Bell,Who is the father of Alexander Graham Bell? Give only the answer.,14,Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 603 573 5842 576 16188 26629 15363 235336 18712 1297 573 3448 235265,"Who is the father of Alexander Graham Bell? Give only the answer.
+
+Who is the father of Alexander Graham Bell? Give only the answer.
+
+Who is the father of Alexander Graham Bell?"
+fact_0028,direct_answer,False,Alexander Melville Bell,Directly answer this factual question: Who is the father of Alexander Graham Bell?,16,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 5842 576 16188 26629 15363 235336,"The answer is: <strong>Alexander Graham Bell</strong>.
+
+Alexander Graham Bell was born on March 3, 1847 in Edinburgh, Scotland. He was the son of Alexander Melville"
+fact_0029,original,False,Quincy Jones,Who was the producer of Human Nature?,8,Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?,2 6571 729 573 21709 576 9998 12734 235336,"Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the"
+fact_0029,short_direct,False,Quincy Jones,Who is the producer of Human Nature?,8,Who | ▁is | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?,2 6571 603 573 21709 576 9998 12734 235336,"Human Nature is a group of four brothers from the Philippines. They are brothers Jerald, Michael, Reynan, and Rafael. They are the sons of a Filipino-American father and a Filipino"
+fact_0029,answer_briefly,False,Quincy Jones,Who was the producer of Human Nature? Answer briefly.,11,Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Answer | ▁briefly | .,2 6571 729 573 21709 576 9998 12734 235336 10358 27918 235265,"Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the"
+fact_0029,no_explanation,False,Quincy Jones,Who was the producer of Human Nature? Give only the answer.,13,Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 21709 576 9998 12734 235336 18712 1297 573 3448 235265,"Who was the producer of Human Nature? Give only the answer.
+
+Who was the producer of Human Nature? Give only the answer.
+
+Who was the producer of Human Nature? Give only the"
+fact_0029,direct_answer,True,Quincy Jones,Directly answer this factual question: Who was the producer of Human Nature?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 21709 576 9998 12734 235336,"The answer is: <strong>The producer of Human Nature is the American singer and songwriter Michael Jackson.</strong>
+
+Michael Jackson is a legendary figure in the world of music, known for his unique style"
+fact_0031,original,False,Malcolm III of Scotland,Who is the father of David I of Scotland?,10,Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ?,2 6571 603 573 5842 576 6046 590 576 18561 235336,"Who is the father of David I of Scotland?
+
+Who is the father of David I of Scotland?
+
+Who is the father of David I of Scotland?
+
+Who is the father of David"
+fact_0031,answer_briefly,False,Malcolm III of Scotland,Who is the father of David I of Scotland? Answer briefly.,13,Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ? | ▁Answer | ▁briefly | .,2 6571 603 573 5842 576 6046 590 576 18561 235336 10358 27918 235265,"Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the"
+fact_0031,no_explanation,False,Malcolm III of Scotland,Who is the father of David I of Scotland? Give only the answer.,15,Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 603 573 5842 576 6046 590 576 18561 235336 18712 1297 573 3448 235265,"Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the"
+fact_0031,direct_answer,True,Malcolm III of Scotland,Directly answer this factual question: Who is the father of David I of Scotland?,17,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 5842 576 6046 590 576 18561 235336,"The answer is: <strong>King Malcolm III of Scotland.</strong>
+
+David I of Scotland was the first king of the Scottish royal family. He was born in 1058 and died"
+fact_0032,original,False,New York City,In what city was Frederick George Bromberg born?,10,In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ?,2 886 1212 3413 729 33955 7373 51435 4743 7565 235336,"What was the name of the first movie that Frederick George Bromberg directed?
+
+What was the name of the first movie that Frederick George Bromberg wrote?
+
+What was the name of the first"
+fact_0032,answer_briefly,False,New York City,In what city was Frederick George Bromberg born? Answer briefly.,13,In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ? | ▁Answer | ▁briefly | .,2 886 1212 3413 729 33955 7373 51435 4743 7565 235336 10358 27918 235265,"In what city was Frederick George Bromberg born?
+
+Answer briefly.
+
+In what city was Frederick George Bromberg born?
+
+Answer briefly.
+
+In what city was Frederick George Bromberg born"
+fact_0032,no_explanation,False,New York City,In what city was Frederick George Bromberg born? Give only the answer.,15,In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 886 1212 3413 729 33955 7373 51435 4743 7565 235336 18712 1297 573 3448 235265,"In what city was Frederick George Bromberg born? Give only the answer.
+
+In what city was Frederick George Bromberg born? Give only the answer.
+
+In what city was Frederick George Brom"
+fact_0032,direct_answer,True,New York City,Directly answer this factual question: In what city was Frederick George Bromberg born?,17,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ?,2 12959 605 3448 736 63914 2872 235292 878 1212 3413 729 33955 7373 51435 4743 7565 235336,"The answer is: <strong>New York City.</strong>
+
+Frederick George Bromberg was born in New York City, New York, on September 15, 1892. He"
+fact_0034,original,False,Philip II of Macedon,Who is the father of Philip III of Macedon?,11,Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?,2 6571 603 573 5842 576 17943 5638 576 108676 477 235336,"Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the"
+fact_0034,answer_briefly,True,Philip II of Macedon,Who is the father of Philip III of Macedon? Answer briefly.,14,Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Answer | ▁briefly | .,2 6571 603 573 5842 576 17943 5638 576 108676 477 235336 10358 27918 235265,"Who was the father of Philip II of Macedon?
+
+Who was the father of Philip II of Macedon?
+
+Who was the father of Philip II of Macedon?
+
+Who was the"
+fact_0034,no_explanation,False,Philip II of Macedon,Who is the father of Philip III of Macedon? Give only the answer.,16,Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 603 573 5842 576 17943 5638 576 108676 477 235336 18712 1297 573 3448 235265,"Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the"
+fact_0034,direct_answer,True,Philip II of Macedon,Directly answer this factual question: Who is the father of Philip III of Macedon?,18,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 5842 576 17943 5638 576 108676 477 235336,"The answer is Philip II of Macedon.
+
+Philip II of Macedon was the father of Philip III of Macedon.
+
+Philip II of Macedon was the father of Philip III of Maced"
+fact_0039,original,False,Richard Rodgers,Who was the composer of Getting to Know You?,10,Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?,2 6571 729 573 41905 576 31458 577 11009 1646 235336,"Who was the composer of Getting to Know You?
+
+Who was the composer of Getting to Know You?
+
+Who was the composer of Getting to Know You?
+
+Who was the composer of Getting"
+fact_0039,short_direct,False,Richard Rodgers,Who is the composer of Getting to Know You?,10,Who | ▁is | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?,2 6571 603 573 41905 576 31458 577 11009 1646 235336,"Who is the composer of Getting to Know You?
+
+Who is the composer of Getting to Know You?
+
+Who is the composer of Getting to Know You?
+
+Who is the composer of Getting"
+fact_0039,answer_briefly,False,Richard Rodgers,Who was the composer of Getting to Know You? Answer briefly.,13,Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ? | ▁Answer | ▁briefly | .,2 6571 729 573 41905 576 31458 577 11009 1646 235336 10358 27918 235265,"What is the name of the composer of the song ""Getting to Know You""?
+
+What is the name of the composer of the song ""Getting to Know You""?
+
+What is the name of"
+fact_0039,no_explanation,False,Richard Rodgers,Who was the composer of Getting to Know You? Give only the answer.,15,Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 41905 576 31458 577 11009 1646 235336 18712 1297 573 3448 235265,"Who was the composer of Getting to Know You? Give only the answer.
+
+Who was the composer of Getting to Know You? Give only the answer.
+
+Who was the composer of Getting to"
+fact_0039,direct_answer,True,Richard Rodgers,Directly answer this factual question: Who was the composer of Getting to Know You?,17,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 41905 576 31458 577 11009 1646 235336,"The answer is: <strong>Richard Rodgers.</strong>
+
+Richard Rodgers was an American composer and lyricist who wrote the music for the musical “The Sound of Music”. He was born in 1"
+fact_0041,original,False,Martin Scorsese,Who was the director of After Hours?,8,Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?,2 6571 729 573 8453 576 4660 21402 235336,"Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the"
+fact_0041,short_direct,False,Martin Scorsese,Who is the director of After Hours?,8,Who | ▁is | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?,2 6571 603 573 8453 576 4660 21402 235336,"After Hours is a 2013 American comedy-drama film written and directed by Sam Levinson. It stars Jamie Dornan, Jennifer Hudson, and James Franco.
+
+What is the plot"
+fact_0041,answer_briefly,False,Martin Scorsese,Who was the director of After Hours? Answer briefly.,11,Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Answer | ▁briefly | .,2 6571 729 573 8453 576 4660 21402 235336 10358 27918 235265,"Who was the director of After Hours?
+
+Answer briefly.
+
+Who was the director of After Hours?
+
+Answer briefly.
+
+Who was the director of After Hours?
+
+Answer briefly."
+fact_0041,no_explanation,False,Martin Scorsese,Who was the director of After Hours? Give only the answer.,13,Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 8453 576 4660 21402 235336 18712 1297 573 3448 235265,"Who was the director of After Hours? Give only the answer.
+
+Who was the director of After Hours? Give only the answer.
+
+Who was the director of After Hours? Give only the"
+fact_0041,direct_answer,True,Martin Scorsese,Directly answer this factual question: Who was the director of After Hours?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 8453 576 4660 21402 235336,"The answer is Martin Scorsese.
+
+The question is a little more complicated than that.
+
+The question is: Who was the director of After Hours?
+
+The answer is Martin Scorsese.
+
+The"
+fact_0047,original,False,Ann Brashares,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,17,Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ?,2 6571 603 573 3426 576 53343 575 7640 235292 714 31978 15684 576 573 41566 5813 235336,"What is the name of the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+
+What is the name of the author of Forever in Blue: The Fourth Summer of the Sister"
+fact_0047,answer_briefly,False,Ann Brashares,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer briefly.,20,Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ? | ▁Answer | ▁briefly | .,2 6571 603 573 3426 576 53343 575 7640 235292 714 31978 15684 576 573 41566 5813 235336 10358 27918 235265,"Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer briefly.
+
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer"
+fact_0047,no_explanation,False,Ann Brashares,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Give only the answer.,22,Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 603 573 3426 576 53343 575 7640 235292 714 31978 15684 576 573 41566 5813 235336 18712 1297 573 3448 235265,"Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Give only the answer.
+
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood"
+fact_0047,direct_answer,True,Ann Brashares,Directly answer this factual question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,24,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 3426 576 53343 575 7640 235292 714 31978 15684 576 573 41566 5813 235336,"The author of Forever in Blue: The Fourth Summer of the Sisterhood is Ann Brashares.
+
+The author of Forever in Blue: The Fourth Summer of the Sisterhood is Ann Brashares."
+fact_0049,original,False,Lee Daniels,Who was the producer of Precious?,7,Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?,2 6571 729 573 21709 576 133088 235336,"Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?"
+fact_0049,short_direct,False,Lee Daniels,Who is the producer of Precious?,7,Who | ▁is | ▁the | ▁producer | ▁of | ▁Precious | ?,2 6571 603 573 21709 576 133088 235336,"Who is the director of Precious?
+
+What is the name of the character played by Mo'Nique?
+
+What is the name of the character played by Gabourey Sidibe?"
+fact_0049,answer_briefly,False,Lee Daniels,Who was the producer of Precious? Answer briefly.,10,Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Answer | ▁briefly | .,2 6571 729 573 21709 576 133088 235336 10358 27918 235265,"Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?"
+fact_0049,no_explanation,False,Lee Daniels,Who was the producer of Precious? Give only the answer.,12,Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 21709 576 133088 235336 18712 1297 573 3448 235265,"Who was the producer of Precious? Give only the answer.
+
+Who was the producer of Precious? Give only the answer.
+
+Who was the producer of Precious? Give only the answer."
+fact_0049,direct_answer,True,Lee Daniels,Directly answer this factual question: Who was the producer of Precious?,14,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 21709 576 133088 235336,"The answer is: <strong>Lee Daniels.</strong>
+
+Lee Daniels is an American film director, producer, and screenwriter. He is best known for his work on the films Precious: Based on the"
+fact_0051,original,False,Igor Stravinsky,Who was the composer of Petrushka chord?,10,Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?,2 6571 729 573 41905 576 7040 53984 1161 50591 235336,"[User 0001]
+
+I'm trying to find out who composed the chord that is used in the song Petrushka. I've heard it used in a lot"
+fact_0051,short_direct,False,Igor Stravinsky,Who is the composer of Petrushka chord?,10,Who | ▁is | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?,2 6571 603 573 41905 576 7040 53984 1161 50591 235336,"[User 0001]
+
+I'm trying to find out who composed the chord that is played in the beginning of Petrushka. I've heard it in the movie"
+fact_0051,answer_briefly,False,Igor Stravinsky,Who was the composer of Petrushka chord? Answer briefly.,13,Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Answer | ▁briefly | .,2 6571 729 573 41905 576 7040 53984 1161 50591 235336 10358 27918 235265,"Who was the composer of Petrushka chord?
+
+Who was the composer of Petrushka chord?
+
+Who was the composer of Petrushka chord?
+
+Who was the composer of Pet"
+fact_0051,no_explanation,False,Igor Stravinsky,Who was the composer of Petrushka chord? Give only the answer.,15,Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 41905 576 7040 53984 1161 50591 235336 18712 1297 573 3448 235265,"Who was the composer of Petrushka chord? Give only the answer.
+
+Who was the composer of Petrushka chord? Give only the answer.
+
+Who was the composer of Petrush"
+fact_0051,direct_answer,True,Igor Stravinsky,Directly answer this factual question: Who was the composer of Petrushka chord?,17,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 41905 576 7040 53984 1161 50591 235336,"The answer is: <strong>Igor Stravinsky.</strong>
+
+Petrushka is a famous ballet composed by Igor Stravinsky in 1911. The ballet is based on the"
+fact_0053,original,True,Debra Hill,Who was the producer of The Fog?,8,Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?,2 6571 729 573 21709 576 714 50084 235336,"The Fog was produced by Roger Corman.
+
+Who was the director of The Fog?
+
+The Fog was directed by John Carpenter.
+
+What was the release date of The Fog?
+
+The"
+fact_0053,short_direct,True,Debra Hill,Who is the producer of The Fog?,8,Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?,2 6571 603 573 21709 576 714 50084 235336,"The Fog is a 1980 American horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, and Hal Holbrook. The"
+fact_0053,answer_briefly,False,Debra Hill,Who was the producer of The Fog? Answer briefly.,11,Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Answer | ▁briefly | .,2 6571 729 573 21709 576 714 50084 235336 10358 27918 235265,"Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the"
+fact_0053,no_explanation,True,Debra Hill,Who was the producer of The Fog? Give only the answer.,13,Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 21709 576 714 50084 235336 18712 1297 573 3448 235265,"The Fog is a 1980 American supernatural horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, Hal Holbrook, and"
+fact_0053,direct_answer,True,Debra Hill,Directly answer this factual question: Who was the producer of The Fog?,15,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 21709 576 714 50084 235336,"The Fog is a 1980 American horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, Hal Holbrook, and Adrienne"
+fact_0054,original,False,Thomas More,Who is the author of Utopia?,7,Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ?,2 6571 603 573 3426 576 154030 235336,"Who is the author of The Tempest?
+
+Who is the author of The Merchant of Venice?
+
+Who is the author of The Winter's Tale?
+
+Who is the author of The Tempest"
+fact_0054,answer_briefly,False,Thomas More,Who is the author of Utopia? Answer briefly.,10,Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ? | ▁Answer | ▁briefly | .,2 6571 603 573 3426 576 154030 235336 10358 27918 235265,"What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the"
+fact_0054,no_explanation,False,Thomas More,Who is the author of Utopia? Give only the answer.,12,Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 603 573 3426 576 154030 235336 18712 1297 573 3448 235265,"Who is the author of The Jungle Book? Give only the answer.
+
+Who is the author of The Jungle Book? Give only the answer.
+
+Who is the author of The Jungle Book?"
+fact_0054,direct_answer,True,Thomas More,Directly answer this factual question: Who is the author of Utopia?,14,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ?,2 12959 605 3448 736 63914 2872 235292 7702 603 573 3426 576 154030 235336,"The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of"
+fact_0057,original,False,Pat Proft,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,16,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?,2 6571 729 573 191114 604 714 122568 17083 235292 4845 573 25798 576 12543 38098 29675,"Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who was the screenwriter for"
+fact_0057,short_direct,False,Pat Proft,Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?,16,Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?,2 6571 603 573 191114 604 714 122568 17083 235292 4845 573 25798 576 12543 38098 29675,"Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who is the screenwriter for"
+fact_0057,answer_briefly,True,Pat Proft,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,19,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Answer | ▁briefly | .,2 6571 729 573 191114 604 714 122568 17083 235292 4845 573 25798 576 12543 38098 29675 10358 27918 235265,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and"
+fact_0057,no_explanation,True,Pat Proft,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,21,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 191114 604 714 122568 17083 235292 4845 573 25798 576 12543 38098 29675 18712 1297 573 3448 235265,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and"
+fact_0057,direct_answer,False,Pat Proft,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,23,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 191114 604 714 122568 17083 235292 4845 573 25798 576 12543 38098 29675,"The answer is:
+
+<blockquote><strong>Leslie Dixon</strong></blockquote>
+
+Leslie Dixon is a screenwriter, producer, and director. She is best known for her work on the 1988 film"
+fact_0059,original,False,Stirling Silliphant,Who was the screenwriter for Over the Top?,9,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?,2 6571 729 573 191114 604 6136 573 6835 235336,"Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?"
+fact_0059,short_direct,True,Stirling Silliphant,Who is the screenwriter for Over the Top?,9,Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?,2 6571 603 573 191114 604 6136 573 6835 235336,"Over the Top is a 1987 American action comedy film directed by John Carl Buechler and written by David Twohy. The film stars Sylvester Stallone, Robert Loggia,"
+fact_0059,answer_briefly,False,Stirling Silliphant,Who was the screenwriter for Over the Top? Answer briefly.,12,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ? | ▁Answer | ▁briefly | .,2 6571 729 573 191114 604 6136 573 6835 235336 10358 27918 235265,"Who was the screenwriter for Over the Top?
+
+Answer briefly.
+
+Who was the screenwriter for Over the Top?
+
+Answer briefly.
+
+Who was the screenwriter for Over the Top?
+
+Answer"
+fact_0059,no_explanation,False,Stirling Silliphant,Who was the screenwriter for Over the Top? Give only the answer.,14,Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ? | ▁Give | ▁only | ▁the | ▁answer | .,2 6571 729 573 191114 604 6136 573 6835 235336 18712 1297 573 3448 235265,"Who was the screenwriter for Over the Top? Give only the answer.
+
+Who was the screenwriter for Over the Top? Give only the answer.
+
+Who was the screenwriter for Over the Top?"
+fact_0059,direct_answer,False,Stirling Silliphant,Directly answer this factual question: Who was the screenwriter for Over the Top?,16,Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?,2 12959 605 3448 736 63914 2872 235292 7702 729 573 191114 604 6136 573 6835 235336,"The answer is:
+
+<strong>John Sayles</strong>
+
+John Sayles is an American screenwriter, director, and actor. He is best known for his work on the films <em>The Brother from"

@@ -1,0 +1,1939 @@
+fact_id,variant_id,layer,is_correct,question,correct_answer,generated_answer,n_tokens,tokens
+fact_0004,original,6,False,Who was the composer of Cabaret?,John Kander,"Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0004,original,9,False,Who was the composer of Cabaret?,John Kander,"Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0004,original,12,False,Who was the composer of Cabaret?,John Kander,"Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0004,short_direct,6,False,Who is the composer of Cabaret?,John Kander,"Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the",9,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0004,short_direct,9,False,Who is the composer of Cabaret?,John Kander,"Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the",9,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0004,short_direct,12,False,Who is the composer of Cabaret?,John Kander,"Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the composer of Cabaret?
+
+Who is the",9,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0004,answer_briefly,6,False,Who was the composer of Cabaret? Answer briefly.,John Kander,"Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ? | ▁Answer | ▁briefly | .
+fact_0004,answer_briefly,9,False,Who was the composer of Cabaret? Answer briefly.,John Kander,"Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ? | ▁Answer | ▁briefly | .
+fact_0004,answer_briefly,12,False,Who was the composer of Cabaret? Answer briefly.,John Kander,"Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the composer of Cabaret?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ? | ▁Answer | ▁briefly | .
+fact_0004,no_explanation,6,False,Who was the composer of Cabaret? Give only the answer.,John Kander,"Who was the composer of Cabaret? Give only the answer.
+
+Who was the composer of Cabaret? Give only the answer.
+
+Who was the composer of Cabaret? Give only the",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0004,no_explanation,9,False,Who was the composer of Cabaret? Give only the answer.,John Kander,"Who was the composer of Cabaret? Give only the answer.
+
+Who was the composer of Cabaret? Give only the answer.
+
+Who was the composer of Cabaret? Give only the",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0004,no_explanation,12,False,Who was the composer of Cabaret? Give only the answer.,John Kander,"Who was the composer of Cabaret? Give only the answer.
+
+Who was the composer of Cabaret? Give only the answer.
+
+Who was the composer of Cabaret? Give only the",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0004,direct_answer,6,True,Directly answer this factual question: Who was the composer of Cabaret?,John Kander,"The answer is: <strong>Kander and Ebb.</strong>
+
+The musical Cabaret is a musical that was written by John Kander and Fred Ebb. The musical was first performed in",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0004,direct_answer,9,True,Directly answer this factual question: Who was the composer of Cabaret?,John Kander,"The answer is: <strong>Kander and Ebb.</strong>
+
+The musical Cabaret is a musical that was written by John Kander and Fred Ebb. The musical was first performed in",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0004,direct_answer,12,True,Directly answer this factual question: Who was the composer of Cabaret?,John Kander,"The answer is: <strong>Kander and Ebb.</strong>
+
+The musical Cabaret is a musical that was written by John Kander and Fred Ebb. The musical was first performed in",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁C | abaret | ?
+fact_0007,original,6,False,Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0007,original,9,False,Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0007,original,12,False,Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the screenwriter for Uzak?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0007,short_direct,6,True,Who is the screenwriter for Uzak?,Nuri Bilge Ceylan,Uzak is a 2018 Turkish drama film directed by Nuri Bilge Ceylan. The film is based on the novel of the same name by Orhan Pamuk. The,9,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0007,short_direct,9,True,Who is the screenwriter for Uzak?,Nuri Bilge Ceylan,Uzak is a 2018 Turkish drama film directed by Nuri Bilge Ceylan. The film is based on the novel of the same name by Orhan Pamuk. The,9,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0007,short_direct,12,True,Who is the screenwriter for Uzak?,Nuri Bilge Ceylan,Uzak is a 2018 Turkish drama film directed by Nuri Bilge Ceylan. The film is based on the novel of the same name by Orhan Pamuk. The,9,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0007,answer_briefly,6,False,Who was the screenwriter for Uzak? Answer briefly.,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak?
+
+Answer briefly.
+
+Who was the screenwriter for Uzak?
+
+Answer briefly.
+
+Who was the screenwriter for Uzak?
+
+Answer briefly.",12,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ? | ▁Answer | ▁briefly | .
+fact_0007,answer_briefly,9,False,Who was the screenwriter for Uzak? Answer briefly.,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak?
+
+Answer briefly.
+
+Who was the screenwriter for Uzak?
+
+Answer briefly.
+
+Who was the screenwriter for Uzak?
+
+Answer briefly.",12,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ? | ▁Answer | ▁briefly | .
+fact_0007,answer_briefly,12,False,Who was the screenwriter for Uzak? Answer briefly.,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak?
+
+Answer briefly.
+
+Who was the screenwriter for Uzak?
+
+Answer briefly.
+
+Who was the screenwriter for Uzak?
+
+Answer briefly.",12,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ? | ▁Answer | ▁briefly | .
+fact_0007,no_explanation,6,False,Who was the screenwriter for Uzak? Give only the answer.,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak? Give only the answer.
+
+Who was the screenwriter for Uzak? Give only the answer.
+
+Who was the screenwriter for Uzak? Give only the",14,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0007,no_explanation,9,False,Who was the screenwriter for Uzak? Give only the answer.,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak? Give only the answer.
+
+Who was the screenwriter for Uzak? Give only the answer.
+
+Who was the screenwriter for Uzak? Give only the",14,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0007,no_explanation,12,False,Who was the screenwriter for Uzak? Give only the answer.,Nuri Bilge Ceylan,"Who was the screenwriter for Uzak? Give only the answer.
+
+Who was the screenwriter for Uzak? Give only the answer.
+
+Who was the screenwriter for Uzak? Give only the",14,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0007,direct_answer,6,True,Directly answer this factual question: Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"The answer is: <strong>Nuri Bilge Ceylan</strong>.
+
+Nuri Bilge Ceylan is a Turkish director, screenwriter, and producer. He is best known for his films U",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0007,direct_answer,9,True,Directly answer this factual question: Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"The answer is: <strong>Nuri Bilge Ceylan</strong>.
+
+Nuri Bilge Ceylan is a Turkish director, screenwriter, and producer. He is best known for his films U",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0007,direct_answer,12,True,Directly answer this factual question: Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"The answer is: <strong>Nuri Bilge Ceylan</strong>.
+
+Nuri Bilge Ceylan is a Turkish director, screenwriter, and producer. He is best known for his films U",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁U | zak | ?
+fact_0008,original,6,True,Who was the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. It stars George Clooney, Shailene Woodley,",10,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0008,original,9,True,Who was the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. It stars George Clooney, Shailene Woodley,",10,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0008,original,12,True,Who was the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. It stars George Clooney, Shailene Woodley,",10,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0008,short_direct,6,True,Who is the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. It stars George Clooney, Shailene Woodley,",10,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0008,short_direct,9,True,Who is the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. It stars George Clooney, Shailene Woodley,",10,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0008,short_direct,12,True,Who is the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. It stars George Clooney, Shailene Woodley,",10,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0008,answer_briefly,6,True,Who was the producer of The Descendants? Answer briefly.,Alexander Payne,"Who was the producer of The Descendants?
+
+The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash.",13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ? | ▁Answer | ▁briefly | .
+fact_0008,answer_briefly,9,True,Who was the producer of The Descendants? Answer briefly.,Alexander Payne,"Who was the producer of The Descendants?
+
+The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash.",13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ? | ▁Answer | ▁briefly | .
+fact_0008,answer_briefly,12,True,Who was the producer of The Descendants? Answer briefly.,Alexander Payne,"Who was the producer of The Descendants?
+
+The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash.",13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ? | ▁Answer | ▁briefly | .
+fact_0008,no_explanation,6,False,Who was the producer of The Descendants? Give only the answer.,Alexander Payne,"Who was the producer of The Descendants? Give only the answer.
+
+Who was the producer of The Descendants? Give only the answer.
+
+Who was the producer of The Descendants?",15,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0008,no_explanation,9,False,Who was the producer of The Descendants? Give only the answer.,Alexander Payne,"Who was the producer of The Descendants? Give only the answer.
+
+Who was the producer of The Descendants? Give only the answer.
+
+Who was the producer of The Descendants?",15,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0008,no_explanation,12,False,Who was the producer of The Descendants? Give only the answer.,Alexander Payne,"Who was the producer of The Descendants? Give only the answer.
+
+Who was the producer of The Descendants? Give only the answer.
+
+Who was the producer of The Descendants?",15,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0008,direct_answer,6,True,Directly answer this factual question: Who was the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. The film stars George Clooney, Shailene Woodley",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0008,direct_answer,9,True,Directly answer this factual question: Who was the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. The film stars George Clooney, Shailene Woodley",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0008,direct_answer,12,True,Directly answer this factual question: Who was the producer of The Descendants?,Alexander Payne,"The Descendants is a 2011 American drama film directed by Alexander Payne and written by Payne and Nat Faxon and Jim Rash. The film stars George Clooney, Shailene Woodley",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Desc | endants | ?
+fact_0013,original,6,False,Who was the director of The Doors?,Oliver Stone,"Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0013,original,9,False,Who was the director of The Doors?,Oliver Stone,"Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0013,original,12,False,Who was the director of The Doors?,Oliver Stone,"Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0013,short_direct,6,True,Who is the director of The Doors?,Oliver Stone,"The Doors was directed by Oliver Stone.
+
+Who is the director of The Doors?
+
+Oliver Stone
+
+Who is the director of The Doors?
+
+Oliver Stone
+
+Who is the director of The",9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0013,short_direct,9,True,Who is the director of The Doors?,Oliver Stone,"The Doors was directed by Oliver Stone.
+
+Who is the director of The Doors?
+
+Oliver Stone
+
+Who is the director of The Doors?
+
+Oliver Stone
+
+Who is the director of The",9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0013,short_direct,12,True,Who is the director of The Doors?,Oliver Stone,"The Doors was directed by Oliver Stone.
+
+Who is the director of The Doors?
+
+Oliver Stone
+
+Who is the director of The Doors?
+
+Oliver Stone
+
+Who is the director of The",9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0013,answer_briefly,6,False,Who was the director of The Doors? Answer briefly.,Oliver Stone,"Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ? | ▁Answer | ▁briefly | .
+fact_0013,answer_briefly,9,False,Who was the director of The Doors? Answer briefly.,Oliver Stone,"Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ? | ▁Answer | ▁briefly | .
+fact_0013,answer_briefly,12,False,Who was the director of The Doors? Answer briefly.,Oliver Stone,"Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the director of The Doors?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ? | ▁Answer | ▁briefly | .
+fact_0013,no_explanation,6,False,Who was the director of The Doors? Give only the answer.,Oliver Stone,"Who was the director of The Doors? Give only the answer.
+
+Who was the director of The Doors? Give only the answer.
+
+Who was the director of The Doors? Give only the",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0013,no_explanation,9,False,Who was the director of The Doors? Give only the answer.,Oliver Stone,"Who was the director of The Doors? Give only the answer.
+
+Who was the director of The Doors? Give only the answer.
+
+Who was the director of The Doors? Give only the",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0013,no_explanation,12,False,Who was the director of The Doors? Give only the answer.,Oliver Stone,"Who was the director of The Doors? Give only the answer.
+
+Who was the director of The Doors? Give only the answer.
+
+Who was the director of The Doors? Give only the",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0013,direct_answer,6,True,Directly answer this factual question: Who was the director of The Doors?,Oliver Stone,"The answer is Oliver Stone.
+
+The Doors was a 1991 biopic about the band The Doors. The film was directed by Oliver Stone and starred Val Kilmer as Jim Morrison",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0013,direct_answer,9,True,Directly answer this factual question: Who was the director of The Doors?,Oliver Stone,"The answer is Oliver Stone.
+
+The Doors was a 1991 biopic about the band The Doors. The film was directed by Oliver Stone and starred Val Kilmer as Jim Morrison",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0013,direct_answer,12,True,Directly answer this factual question: Who was the director of The Doors?,Oliver Stone,"The answer is Oliver Stone.
+
+The Doors was a 1991 biopic about the band The Doors. The film was directed by Oliver Stone and starred Val Kilmer as Jim Morrison",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁The | ▁Doors | ?
+fact_0015,original,6,False,Who was the director of Nashville?,Robert Altman,"Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?",8,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0015,original,9,False,Who was the director of Nashville?,Robert Altman,"Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?",8,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0015,original,12,False,Who was the director of Nashville?,Robert Altman,"Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?",8,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0015,short_direct,6,False,Who is the director of Nashville?,Robert Altman,"Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?",8,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0015,short_direct,9,False,Who is the director of Nashville?,Robert Altman,"Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?",8,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0015,short_direct,12,False,Who is the director of Nashville?,Robert Altman,"Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?
+
+Who is the director of Nashville?",8,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0015,answer_briefly,6,False,Who was the director of Nashville? Answer briefly.,Robert Altman,"Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?",11,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ? | ▁Answer | ▁briefly | .
+fact_0015,answer_briefly,9,False,Who was the director of Nashville? Answer briefly.,Robert Altman,"Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?",11,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ? | ▁Answer | ▁briefly | .
+fact_0015,answer_briefly,12,False,Who was the director of Nashville? Answer briefly.,Robert Altman,"Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?
+
+Who was the director of Nashville?",11,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ? | ▁Answer | ▁briefly | .
+fact_0015,no_explanation,6,False,Who was the director of Nashville? Give only the answer.,Robert Altman,"Who was the director of Nashville? Give only the answer.
+
+Who was the director of Nashville? Give only the answer.
+
+Who was the director of Nashville? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0015,no_explanation,9,False,Who was the director of Nashville? Give only the answer.,Robert Altman,"Who was the director of Nashville? Give only the answer.
+
+Who was the director of Nashville? Give only the answer.
+
+Who was the director of Nashville? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0015,no_explanation,12,False,Who was the director of Nashville? Give only the answer.,Robert Altman,"Who was the director of Nashville? Give only the answer.
+
+Who was the director of Nashville? Give only the answer.
+
+Who was the director of Nashville? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0015,direct_answer,6,True,Directly answer this factual question: Who was the director of Nashville?,Robert Altman,"The answer is: <strong>Robert Altman.</strong>
+
+Robert Altman is an American director, screenwriter, producer and actor. He is known for his unique style of directing and his ability to create complex",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0015,direct_answer,9,True,Directly answer this factual question: Who was the director of Nashville?,Robert Altman,"The answer is: <strong>Robert Altman.</strong>
+
+Robert Altman is an American director, screenwriter, producer and actor. He is known for his unique style of directing and his ability to create complex",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0015,direct_answer,12,True,Directly answer this factual question: Who was the director of Nashville?,Robert Altman,"The answer is: <strong>Robert Altman.</strong>
+
+Robert Altman is an American director, screenwriter, producer and actor. He is known for his unique style of directing and his ability to create complex",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁Nashville | ?
+fact_0016,original,6,False,Who is the author of The Wild Duck?,Henrik Ibsen,"Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?",10,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ?
+fact_0016,original,9,False,Who is the author of The Wild Duck?,Henrik Ibsen,"Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?",10,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ?
+fact_0016,original,12,False,Who is the author of The Wild Duck?,Henrik Ibsen,"Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?
+
+Who is the author of The Wild Duck?",10,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ?
+fact_0016,answer_briefly,6,False,Who is the author of The Wild Duck? Answer briefly.,Henrik Ibsen,"Who is the author of The Wild Duck? Answer briefly.
+
+Who is the author of The Wild Duck? Answer briefly.
+
+Who is the author of The Wild Duck? Answer briefly.",13,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ? | ▁Answer | ▁briefly | .
+fact_0016,answer_briefly,9,False,Who is the author of The Wild Duck? Answer briefly.,Henrik Ibsen,"Who is the author of The Wild Duck? Answer briefly.
+
+Who is the author of The Wild Duck? Answer briefly.
+
+Who is the author of The Wild Duck? Answer briefly.",13,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ? | ▁Answer | ▁briefly | .
+fact_0016,answer_briefly,12,False,Who is the author of The Wild Duck? Answer briefly.,Henrik Ibsen,"Who is the author of The Wild Duck? Answer briefly.
+
+Who is the author of The Wild Duck? Answer briefly.
+
+Who is the author of The Wild Duck? Answer briefly.",13,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ? | ▁Answer | ▁briefly | .
+fact_0016,no_explanation,6,False,Who is the author of The Wild Duck? Give only the answer.,Henrik Ibsen,"Who is the author of The Wild Duck? Give only the answer.
+
+Who is the author of The Wild Duck? Give only the answer.
+
+Who is the author of The Wild Duck?",15,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0016,no_explanation,9,False,Who is the author of The Wild Duck? Give only the answer.,Henrik Ibsen,"Who is the author of The Wild Duck? Give only the answer.
+
+Who is the author of The Wild Duck? Give only the answer.
+
+Who is the author of The Wild Duck?",15,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0016,no_explanation,12,False,Who is the author of The Wild Duck? Give only the answer.,Henrik Ibsen,"Who is the author of The Wild Duck? Give only the answer.
+
+Who is the author of The Wild Duck? Give only the answer.
+
+Who is the author of The Wild Duck?",15,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0016,direct_answer,6,True,Directly answer this factual question: Who is the author of The Wild Duck?,Henrik Ibsen,"The author of The Wild Duck is Henrik Ibsen.
+
+The Wild Duck is a play by Henrik Ibsen. It was first performed in 1884. The play is set in a small",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ?
+fact_0016,direct_answer,9,True,Directly answer this factual question: Who is the author of The Wild Duck?,Henrik Ibsen,"The author of The Wild Duck is Henrik Ibsen.
+
+The Wild Duck is a play by Henrik Ibsen. It was first performed in 1884. The play is set in a small",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ?
+fact_0016,direct_answer,12,True,Directly answer this factual question: Who is the author of The Wild Duck?,Henrik Ibsen,"The author of The Wild Duck is Henrik Ibsen.
+
+The Wild Duck is a play by Henrik Ibsen. It was first performed in 1884. The play is set in a small",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁The | ▁Wild | ▁Duck | ?
+fact_0019,original,6,False,Who was the composer of Imagine?,John Lennon,"Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0019,original,9,False,Who was the composer of Imagine?,John Lennon,"Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0019,original,12,False,Who was the composer of Imagine?,John Lennon,"Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?
+
+Who was the composer of Imagine?",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0019,short_direct,6,False,Who is the composer of Imagine?,John Lennon,"Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0019,short_direct,9,False,Who is the composer of Imagine?,John Lennon,"Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0019,short_direct,12,False,Who is the composer of Imagine?,John Lennon,"Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?
+
+Who is the composer of Imagine?",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0019,answer_briefly,6,False,Who was the composer of Imagine? Answer briefly.,John Lennon,"Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ? | ▁Answer | ▁briefly | .
+fact_0019,answer_briefly,9,False,Who was the composer of Imagine? Answer briefly.,John Lennon,"Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ? | ▁Answer | ▁briefly | .
+fact_0019,answer_briefly,12,False,Who was the composer of Imagine? Answer briefly.,John Lennon,"Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine? Answer briefly.
+
+Who was the composer of Imagine",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ? | ▁Answer | ▁briefly | .
+fact_0019,no_explanation,6,False,Who was the composer of Imagine? Give only the answer.,John Lennon,"Who was the composer of Imagine? Give only the answer.
+
+Who was the composer of Imagine? Give only the answer.
+
+Who was the composer of Imagine? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0019,no_explanation,9,False,Who was the composer of Imagine? Give only the answer.,John Lennon,"Who was the composer of Imagine? Give only the answer.
+
+Who was the composer of Imagine? Give only the answer.
+
+Who was the composer of Imagine? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0019,no_explanation,12,False,Who was the composer of Imagine? Give only the answer.,John Lennon,"Who was the composer of Imagine? Give only the answer.
+
+Who was the composer of Imagine? Give only the answer.
+
+Who was the composer of Imagine? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0019,direct_answer,6,True,Directly answer this factual question: Who was the composer of Imagine?,John Lennon,"The answer is John Lennon.
+
+But the question is a bit misleading.
+
+The question is not, “Who was the composer of Imagine?”
+
+The question is, “Who was the composer",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0019,direct_answer,9,True,Directly answer this factual question: Who was the composer of Imagine?,John Lennon,"The answer is John Lennon.
+
+But the question is a bit misleading.
+
+The question is not, “Who was the composer of Imagine?”
+
+The question is, “Who was the composer",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0019,direct_answer,12,True,Directly answer this factual question: Who was the composer of Imagine?,John Lennon,"The answer is John Lennon.
+
+But the question is a bit misleading.
+
+The question is not, “Who was the composer of Imagine?”
+
+The question is, “Who was the composer",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Imagine | ?
+fact_0024,original,6,True,Who is the father of Kim Kardashian?,Robert Kardashian,"Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the mother of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the father",9,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?
+fact_0024,original,9,True,Who is the father of Kim Kardashian?,Robert Kardashian,"Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the mother of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the father",9,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?
+fact_0024,original,12,True,Who is the father of Kim Kardashian?,Robert Kardashian,"Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the mother of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the father",9,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?
+fact_0024,answer_briefly,6,True,Who is the father of Kim Kardashian? Answer briefly.,Robert Kardashian,"Who is the father of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Kim Kardashian is the",12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ? | ▁Answer | ▁briefly | .
+fact_0024,answer_briefly,9,True,Who is the father of Kim Kardashian? Answer briefly.,Robert Kardashian,"Who is the father of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Kim Kardashian is the",12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ? | ▁Answer | ▁briefly | .
+fact_0024,answer_briefly,12,True,Who is the father of Kim Kardashian? Answer briefly.,Robert Kardashian,"Who is the father of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Kim Kardashian is the",12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ? | ▁Answer | ▁briefly | .
+fact_0024,no_explanation,6,False,Who is the father of Kim Kardashian? Give only the answer.,Robert Kardashian,"Who is the father of Kim Kardashian? Give only the answer.
+
+Who is the father of Kim Kardashian? Give only the answer.
+
+Who is the father of Kim Kardashian? Give only the",14,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0024,no_explanation,9,False,Who is the father of Kim Kardashian? Give only the answer.,Robert Kardashian,"Who is the father of Kim Kardashian? Give only the answer.
+
+Who is the father of Kim Kardashian? Give only the answer.
+
+Who is the father of Kim Kardashian? Give only the",14,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0024,no_explanation,12,False,Who is the father of Kim Kardashian? Give only the answer.,Robert Kardashian,"Who is the father of Kim Kardashian? Give only the answer.
+
+Who is the father of Kim Kardashian? Give only the answer.
+
+Who is the father of Kim Kardashian? Give only the",14,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0024,direct_answer,6,False,Directly answer this factual question: Who is the father of Kim Kardashian?,Robert Kardashian,"The answer is Kanye West.
+
+But the question is a bit more complicated than that.
+
+Kim Kardashian and Kanye West have been married for six years.
+
+They have four children together.",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?
+fact_0024,direct_answer,9,False,Directly answer this factual question: Who is the father of Kim Kardashian?,Robert Kardashian,"The answer is Kanye West.
+
+But the question is a bit more complicated than that.
+
+Kim Kardashian and Kanye West have been married for six years.
+
+They have four children together.",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?
+fact_0024,direct_answer,12,False,Directly answer this factual question: Who is the father of Kim Kardashian?,Robert Kardashian,"The answer is Kanye West.
+
+But the question is a bit more complicated than that.
+
+Kim Kardashian and Kanye West have been married for six years.
+
+They have four children together.",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Kim | ▁Kardashian | ?
+fact_0026,original,6,False,Who was the producer of Hot Rats?,Frank Zappa,"Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0026,original,9,False,Who was the producer of Hot Rats?,Frank Zappa,"Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0026,original,12,False,Who was the producer of Hot Rats?,Frank Zappa,"Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0026,short_direct,6,False,Who is the producer of Hot Rats?,Frank Zappa,"Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0026,short_direct,9,False,Who is the producer of Hot Rats?,Frank Zappa,"Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0026,short_direct,12,False,Who is the producer of Hot Rats?,Frank Zappa,"Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the producer of Hot Rats?
+
+Who is the",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0026,answer_briefly,6,False,Who was the producer of Hot Rats? Answer briefly.,Frank Zappa,"Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ? | ▁Answer | ▁briefly | .
+fact_0026,answer_briefly,9,False,Who was the producer of Hot Rats? Answer briefly.,Frank Zappa,"Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ? | ▁Answer | ▁briefly | .
+fact_0026,answer_briefly,12,False,Who was the producer of Hot Rats? Answer briefly.,Frank Zappa,"Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the producer of Hot Rats?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ? | ▁Answer | ▁briefly | .
+fact_0026,no_explanation,6,False,Who was the producer of Hot Rats? Give only the answer.,Frank Zappa,"Who was the producer of Hot Rats? Give only the answer.
+
+Who was the producer of Hot Rats? Give only the answer.
+
+Who was the producer of Hot Rats? Give only the",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0026,no_explanation,9,False,Who was the producer of Hot Rats? Give only the answer.,Frank Zappa,"Who was the producer of Hot Rats? Give only the answer.
+
+Who was the producer of Hot Rats? Give only the answer.
+
+Who was the producer of Hot Rats? Give only the",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0026,no_explanation,12,False,Who was the producer of Hot Rats? Give only the answer.,Frank Zappa,"Who was the producer of Hot Rats? Give only the answer.
+
+Who was the producer of Hot Rats? Give only the answer.
+
+Who was the producer of Hot Rats? Give only the",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0026,direct_answer,6,True,Directly answer this factual question: Who was the producer of Hot Rats?,Frank Zappa,"The answer is: <strong>Frank Zappa.</strong>
+
+Frank Zappa was a musician, composer, and producer who was born in 1940 and died in 1993.",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0026,direct_answer,9,True,Directly answer this factual question: Who was the producer of Hot Rats?,Frank Zappa,"The answer is: <strong>Frank Zappa.</strong>
+
+Frank Zappa was a musician, composer, and producer who was born in 1940 and died in 1993.",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0026,direct_answer,12,True,Directly answer this factual question: Who was the producer of Hot Rats?,Frank Zappa,"The answer is: <strong>Frank Zappa.</strong>
+
+Frank Zappa was a musician, composer, and producer who was born in 1940 and died in 1993.",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Hot | ▁Rats | ?
+fact_0027,original,6,False,Who was the composer of Annie?,Charles Strouse,"Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0027,original,9,False,Who was the composer of Annie?,Charles Strouse,"Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0027,original,12,False,Who was the composer of Annie?,Charles Strouse,"Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?",8,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0027,short_direct,6,False,Who is the composer of Annie?,Charles Strouse,"Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0027,short_direct,9,False,Who is the composer of Annie?,Charles Strouse,"Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0027,short_direct,12,False,Who is the composer of Annie?,Charles Strouse,"Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?
+
+Who is the composer of Annie?",8,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0027,answer_briefly,6,False,Who was the composer of Annie? Answer briefly.,Charles Strouse,"Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ? | ▁Answer | ▁briefly | .
+fact_0027,answer_briefly,9,False,Who was the composer of Annie? Answer briefly.,Charles Strouse,"Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ? | ▁Answer | ▁briefly | .
+fact_0027,answer_briefly,12,False,Who was the composer of Annie? Answer briefly.,Charles Strouse,"Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?
+
+Who was the composer of Annie?",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ? | ▁Answer | ▁briefly | .
+fact_0027,no_explanation,6,False,Who was the composer of Annie? Give only the answer.,Charles Strouse,"Who was the composer of Annie? Give only the answer.
+
+Who was the composer of Annie? Give only the answer.
+
+Who was the composer of Annie? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0027,no_explanation,9,False,Who was the composer of Annie? Give only the answer.,Charles Strouse,"Who was the composer of Annie? Give only the answer.
+
+Who was the composer of Annie? Give only the answer.
+
+Who was the composer of Annie? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0027,no_explanation,12,False,Who was the composer of Annie? Give only the answer.,Charles Strouse,"Who was the composer of Annie? Give only the answer.
+
+Who was the composer of Annie? Give only the answer.
+
+Who was the composer of Annie? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0027,direct_answer,6,True,Directly answer this factual question: Who was the composer of Annie?,Charles Strouse,"The answer is: <strong>Charles Strouse.</strong>
+
+Charles Strouse is an American composer, lyricist and playwright. He is best known for his work on the musical Annie, which was",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0027,direct_answer,9,True,Directly answer this factual question: Who was the composer of Annie?,Charles Strouse,"The answer is: <strong>Charles Strouse.</strong>
+
+Charles Strouse is an American composer, lyricist and playwright. He is best known for his work on the musical Annie, which was",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0027,direct_answer,12,True,Directly answer this factual question: Who was the composer of Annie?,Charles Strouse,"The answer is: <strong>Charles Strouse.</strong>
+
+Charles Strouse is an American composer, lyricist and playwright. He is best known for his work on the musical Annie, which was",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Annie | ?
+fact_0028,original,6,False,Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?",10,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?
+fact_0028,original,9,False,Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?",10,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?
+fact_0028,original,12,False,Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?
+
+Who is the father of Alexander Graham Bell?",10,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?
+fact_0028,answer_briefly,6,True,Who is the father of Alexander Graham Bell? Answer briefly.,Alexander Melville Bell,"Who is the father of Alexander Graham Bell?
+
+Alexander Graham Bell was born on March 3, 1847, in Edinburgh, Scotland. He was the son of Alexander Melville Bell",13,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Answer | ▁briefly | .
+fact_0028,answer_briefly,9,True,Who is the father of Alexander Graham Bell? Answer briefly.,Alexander Melville Bell,"Who is the father of Alexander Graham Bell?
+
+Alexander Graham Bell was born on March 3, 1847, in Edinburgh, Scotland. He was the son of Alexander Melville Bell",13,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Answer | ▁briefly | .
+fact_0028,answer_briefly,12,True,Who is the father of Alexander Graham Bell? Answer briefly.,Alexander Melville Bell,"Who is the father of Alexander Graham Bell?
+
+Alexander Graham Bell was born on March 3, 1847, in Edinburgh, Scotland. He was the son of Alexander Melville Bell",13,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Answer | ▁briefly | .
+fact_0028,no_explanation,6,False,Who is the father of Alexander Graham Bell? Give only the answer.,Alexander Melville Bell,"Who is the father of Alexander Graham Bell? Give only the answer.
+
+Who is the father of Alexander Graham Bell? Give only the answer.
+
+Who is the father of Alexander Graham Bell?",15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0028,no_explanation,9,False,Who is the father of Alexander Graham Bell? Give only the answer.,Alexander Melville Bell,"Who is the father of Alexander Graham Bell? Give only the answer.
+
+Who is the father of Alexander Graham Bell? Give only the answer.
+
+Who is the father of Alexander Graham Bell?",15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0028,no_explanation,12,False,Who is the father of Alexander Graham Bell? Give only the answer.,Alexander Melville Bell,"Who is the father of Alexander Graham Bell? Give only the answer.
+
+Who is the father of Alexander Graham Bell? Give only the answer.
+
+Who is the father of Alexander Graham Bell?",15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0028,direct_answer,6,False,Directly answer this factual question: Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"The answer is: <strong>Alexander Graham Bell</strong>.
+
+Alexander Graham Bell was born on March 3, 1847 in Edinburgh, Scotland. He was the son of Alexander Melville",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?
+fact_0028,direct_answer,9,False,Directly answer this factual question: Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"The answer is: <strong>Alexander Graham Bell</strong>.
+
+Alexander Graham Bell was born on March 3, 1847 in Edinburgh, Scotland. He was the son of Alexander Melville",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?
+fact_0028,direct_answer,12,False,Directly answer this factual question: Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"The answer is: <strong>Alexander Graham Bell</strong>.
+
+Alexander Graham Bell was born on March 3, 1847 in Edinburgh, Scotland. He was the son of Alexander Melville",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Alexander | ▁Graham | ▁Bell | ?
+fact_0029,original,6,False,Who was the producer of Human Nature?,Quincy Jones,"Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,original,9,False,Who was the producer of Human Nature?,Quincy Jones,"Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,original,12,False,Who was the producer of Human Nature?,Quincy Jones,"Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,short_direct,6,False,Who is the producer of Human Nature?,Quincy Jones,"Human Nature is a group of four brothers from the Philippines. They are brothers Jerald, Michael, Reynan, and Rafael. They are the sons of a Filipino-American father and a Filipino",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,short_direct,9,False,Who is the producer of Human Nature?,Quincy Jones,"Human Nature is a group of four brothers from the Philippines. They are brothers Jerald, Michael, Reynan, and Rafael. They are the sons of a Filipino-American father and a Filipino",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,short_direct,12,False,Who is the producer of Human Nature?,Quincy Jones,"Human Nature is a group of four brothers from the Philippines. They are brothers Jerald, Michael, Reynan, and Rafael. They are the sons of a Filipino-American father and a Filipino",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,answer_briefly,6,False,Who was the producer of Human Nature? Answer briefly.,Quincy Jones,"Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Answer | ▁briefly | .
+fact_0029,answer_briefly,9,False,Who was the producer of Human Nature? Answer briefly.,Quincy Jones,"Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Answer | ▁briefly | .
+fact_0029,answer_briefly,12,False,Who was the producer of Human Nature? Answer briefly.,Quincy Jones,"Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the producer of Human Nature?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Answer | ▁briefly | .
+fact_0029,no_explanation,6,False,Who was the producer of Human Nature? Give only the answer.,Quincy Jones,"Who was the producer of Human Nature? Give only the answer.
+
+Who was the producer of Human Nature? Give only the answer.
+
+Who was the producer of Human Nature? Give only the",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0029,no_explanation,9,False,Who was the producer of Human Nature? Give only the answer.,Quincy Jones,"Who was the producer of Human Nature? Give only the answer.
+
+Who was the producer of Human Nature? Give only the answer.
+
+Who was the producer of Human Nature? Give only the",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0029,no_explanation,12,False,Who was the producer of Human Nature? Give only the answer.,Quincy Jones,"Who was the producer of Human Nature? Give only the answer.
+
+Who was the producer of Human Nature? Give only the answer.
+
+Who was the producer of Human Nature? Give only the",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0029,direct_answer,6,True,Directly answer this factual question: Who was the producer of Human Nature?,Quincy Jones,"The answer is: <strong>The producer of Human Nature is the American singer and songwriter Michael Jackson.</strong>
+
+Michael Jackson is a legendary figure in the world of music, known for his unique style",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,direct_answer,9,True,Directly answer this factual question: Who was the producer of Human Nature?,Quincy Jones,"The answer is: <strong>The producer of Human Nature is the American singer and songwriter Michael Jackson.</strong>
+
+Michael Jackson is a legendary figure in the world of music, known for his unique style",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0029,direct_answer,12,True,Directly answer this factual question: Who was the producer of Human Nature?,Quincy Jones,"The answer is: <strong>The producer of Human Nature is the American singer and songwriter Michael Jackson.</strong>
+
+Michael Jackson is a legendary figure in the world of music, known for his unique style",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Human | ▁Nature | ?
+fact_0031,original,6,False,Who is the father of David I of Scotland?,Malcolm III of Scotland,"Who is the father of David I of Scotland?
+
+Who is the father of David I of Scotland?
+
+Who is the father of David I of Scotland?
+
+Who is the father of David",11,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ?
+fact_0031,original,9,False,Who is the father of David I of Scotland?,Malcolm III of Scotland,"Who is the father of David I of Scotland?
+
+Who is the father of David I of Scotland?
+
+Who is the father of David I of Scotland?
+
+Who is the father of David",11,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ?
+fact_0031,original,12,False,Who is the father of David I of Scotland?,Malcolm III of Scotland,"Who is the father of David I of Scotland?
+
+Who is the father of David I of Scotland?
+
+Who is the father of David I of Scotland?
+
+Who is the father of David",11,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ?
+fact_0031,answer_briefly,6,False,Who is the father of David I of Scotland? Answer briefly.,Malcolm III of Scotland,"Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the",14,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ? | ▁Answer | ▁briefly | .
+fact_0031,answer_briefly,9,False,Who is the father of David I of Scotland? Answer briefly.,Malcolm III of Scotland,"Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the",14,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ? | ▁Answer | ▁briefly | .
+fact_0031,answer_briefly,12,False,Who is the father of David I of Scotland? Answer briefly.,Malcolm III of Scotland,"Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the",14,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ? | ▁Answer | ▁briefly | .
+fact_0031,no_explanation,6,False,Who is the father of David I of Scotland? Give only the answer.,Malcolm III of Scotland,"Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the",16,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0031,no_explanation,9,False,Who is the father of David I of Scotland? Give only the answer.,Malcolm III of Scotland,"Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the",16,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0031,no_explanation,12,False,Who is the father of David I of Scotland? Give only the answer.,Malcolm III of Scotland,"Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the first king of Scotland?
+
+Who was the",16,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0031,direct_answer,6,True,Directly answer this factual question: Who is the father of David I of Scotland?,Malcolm III of Scotland,"The answer is: <strong>King Malcolm III of Scotland.</strong>
+
+David I of Scotland was the first king of the Scottish royal family. He was born in 1058 and died",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ?
+fact_0031,direct_answer,9,True,Directly answer this factual question: Who is the father of David I of Scotland?,Malcolm III of Scotland,"The answer is: <strong>King Malcolm III of Scotland.</strong>
+
+David I of Scotland was the first king of the Scottish royal family. He was born in 1058 and died",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ?
+fact_0031,direct_answer,12,True,Directly answer this factual question: Who is the father of David I of Scotland?,Malcolm III of Scotland,"The answer is: <strong>King Malcolm III of Scotland.</strong>
+
+David I of Scotland was the first king of the Scottish royal family. He was born in 1058 and died",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁David | ▁I | ▁of | ▁Scotland | ?
+fact_0032,original,6,False,In what city was Frederick George Bromberg born?,New York City,"What was the name of the first movie that Frederick George Bromberg directed?
+
+What was the name of the first movie that Frederick George Bromberg wrote?
+
+What was the name of the first",11,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ?
+fact_0032,original,9,False,In what city was Frederick George Bromberg born?,New York City,"What was the name of the first movie that Frederick George Bromberg directed?
+
+What was the name of the first movie that Frederick George Bromberg wrote?
+
+What was the name of the first",11,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ?
+fact_0032,original,12,False,In what city was Frederick George Bromberg born?,New York City,"What was the name of the first movie that Frederick George Bromberg directed?
+
+What was the name of the first movie that Frederick George Bromberg wrote?
+
+What was the name of the first",11,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ?
+fact_0032,answer_briefly,6,False,In what city was Frederick George Bromberg born? Answer briefly.,New York City,"In what city was Frederick George Bromberg born?
+
+Answer briefly.
+
+In what city was Frederick George Bromberg born?
+
+Answer briefly.
+
+In what city was Frederick George Bromberg born",14,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ? | ▁Answer | ▁briefly | .
+fact_0032,answer_briefly,9,False,In what city was Frederick George Bromberg born? Answer briefly.,New York City,"In what city was Frederick George Bromberg born?
+
+Answer briefly.
+
+In what city was Frederick George Bromberg born?
+
+Answer briefly.
+
+In what city was Frederick George Bromberg born",14,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ? | ▁Answer | ▁briefly | .
+fact_0032,answer_briefly,12,False,In what city was Frederick George Bromberg born? Answer briefly.,New York City,"In what city was Frederick George Bromberg born?
+
+Answer briefly.
+
+In what city was Frederick George Bromberg born?
+
+Answer briefly.
+
+In what city was Frederick George Bromberg born",14,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ? | ▁Answer | ▁briefly | .
+fact_0032,no_explanation,6,False,In what city was Frederick George Bromberg born? Give only the answer.,New York City,"In what city was Frederick George Bromberg born? Give only the answer.
+
+In what city was Frederick George Bromberg born? Give only the answer.
+
+In what city was Frederick George Brom",16,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0032,no_explanation,9,False,In what city was Frederick George Bromberg born? Give only the answer.,New York City,"In what city was Frederick George Bromberg born? Give only the answer.
+
+In what city was Frederick George Bromberg born? Give only the answer.
+
+In what city was Frederick George Brom",16,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0032,no_explanation,12,False,In what city was Frederick George Bromberg born? Give only the answer.,New York City,"In what city was Frederick George Bromberg born? Give only the answer.
+
+In what city was Frederick George Bromberg born? Give only the answer.
+
+In what city was Frederick George Brom",16,<bos> | In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0032,direct_answer,6,True,Directly answer this factual question: In what city was Frederick George Bromberg born?,New York City,"The answer is: <strong>New York City.</strong>
+
+Frederick George Bromberg was born in New York City, New York, on September 15, 1892. He",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ?
+fact_0032,direct_answer,9,True,Directly answer this factual question: In what city was Frederick George Bromberg born?,New York City,"The answer is: <strong>New York City.</strong>
+
+Frederick George Bromberg was born in New York City, New York, on September 15, 1892. He",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ?
+fact_0032,direct_answer,12,True,Directly answer this factual question: In what city was Frederick George Bromberg born?,New York City,"The answer is: <strong>New York City.</strong>
+
+Frederick George Bromberg was born in New York City, New York, on September 15, 1892. He",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁In | ▁what | ▁city | ▁was | ▁Frederick | ▁George | ▁Brom | berg | ▁born | ?
+fact_0034,original,6,False,Who is the father of Philip III of Macedon?,Philip II of Macedon,"Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the",12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,original,9,False,Who is the father of Philip III of Macedon?,Philip II of Macedon,"Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the",12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,original,12,False,Who is the father of Philip III of Macedon?,Philip II of Macedon,"Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the",12,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,answer_briefly,6,True,Who is the father of Philip III of Macedon? Answer briefly.,Philip II of Macedon,"Who was the father of Philip II of Macedon?
+
+Who was the father of Philip II of Macedon?
+
+Who was the father of Philip II of Macedon?
+
+Who was the",15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Answer | ▁briefly | .
+fact_0034,answer_briefly,9,True,Who is the father of Philip III of Macedon? Answer briefly.,Philip II of Macedon,"Who was the father of Philip II of Macedon?
+
+Who was the father of Philip II of Macedon?
+
+Who was the father of Philip II of Macedon?
+
+Who was the",15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Answer | ▁briefly | .
+fact_0034,answer_briefly,12,True,Who is the father of Philip III of Macedon? Answer briefly.,Philip II of Macedon,"Who was the father of Philip II of Macedon?
+
+Who was the father of Philip II of Macedon?
+
+Who was the father of Philip II of Macedon?
+
+Who was the",15,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Answer | ▁briefly | .
+fact_0034,no_explanation,6,False,Who is the father of Philip III of Macedon? Give only the answer.,Philip II of Macedon,"Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the",17,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0034,no_explanation,9,False,Who is the father of Philip III of Macedon? Give only the answer.,Philip II of Macedon,"Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the",17,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0034,no_explanation,12,False,Who is the father of Philip III of Macedon? Give only the answer.,Philip II of Macedon,"Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the father of Philip III of Macedon?
+
+Who is the",17,<bos> | Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0034,direct_answer,6,True,Directly answer this factual question: Who is the father of Philip III of Macedon?,Philip II of Macedon,"The answer is Philip II of Macedon.
+
+Philip II of Macedon was the father of Philip III of Macedon.
+
+Philip II of Macedon was the father of Philip III of Maced",19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,direct_answer,9,True,Directly answer this factual question: Who is the father of Philip III of Macedon?,Philip II of Macedon,"The answer is Philip II of Macedon.
+
+Philip II of Macedon was the father of Philip III of Macedon.
+
+Philip II of Macedon was the father of Philip III of Maced",19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0034,direct_answer,12,True,Directly answer this factual question: Who is the father of Philip III of Macedon?,Philip II of Macedon,"The answer is Philip II of Macedon.
+
+Philip II of Macedon was the father of Philip III of Macedon.
+
+Philip II of Macedon was the father of Philip III of Maced",19,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁father | ▁of | ▁Philip | ▁III | ▁of | ▁Maced | on | ?
+fact_0039,original,6,False,Who was the composer of Getting to Know You?,Richard Rodgers,"Who was the composer of Getting to Know You?
+
+Who was the composer of Getting to Know You?
+
+Who was the composer of Getting to Know You?
+
+Who was the composer of Getting",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0039,original,9,False,Who was the composer of Getting to Know You?,Richard Rodgers,"Who was the composer of Getting to Know You?
+
+Who was the composer of Getting to Know You?
+
+Who was the composer of Getting to Know You?
+
+Who was the composer of Getting",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0039,original,12,False,Who was the composer of Getting to Know You?,Richard Rodgers,"Who was the composer of Getting to Know You?
+
+Who was the composer of Getting to Know You?
+
+Who was the composer of Getting to Know You?
+
+Who was the composer of Getting",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0039,short_direct,6,False,Who is the composer of Getting to Know You?,Richard Rodgers,"Who is the composer of Getting to Know You?
+
+Who is the composer of Getting to Know You?
+
+Who is the composer of Getting to Know You?
+
+Who is the composer of Getting",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0039,short_direct,9,False,Who is the composer of Getting to Know You?,Richard Rodgers,"Who is the composer of Getting to Know You?
+
+Who is the composer of Getting to Know You?
+
+Who is the composer of Getting to Know You?
+
+Who is the composer of Getting",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0039,short_direct,12,False,Who is the composer of Getting to Know You?,Richard Rodgers,"Who is the composer of Getting to Know You?
+
+Who is the composer of Getting to Know You?
+
+Who is the composer of Getting to Know You?
+
+Who is the composer of Getting",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0039,answer_briefly,6,False,Who was the composer of Getting to Know You? Answer briefly.,Richard Rodgers,"What is the name of the composer of the song ""Getting to Know You""?
+
+What is the name of the composer of the song ""Getting to Know You""?
+
+What is the name of",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ? | ▁Answer | ▁briefly | .
+fact_0039,answer_briefly,9,False,Who was the composer of Getting to Know You? Answer briefly.,Richard Rodgers,"What is the name of the composer of the song ""Getting to Know You""?
+
+What is the name of the composer of the song ""Getting to Know You""?
+
+What is the name of",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ? | ▁Answer | ▁briefly | .
+fact_0039,answer_briefly,12,False,Who was the composer of Getting to Know You? Answer briefly.,Richard Rodgers,"What is the name of the composer of the song ""Getting to Know You""?
+
+What is the name of the composer of the song ""Getting to Know You""?
+
+What is the name of",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ? | ▁Answer | ▁briefly | .
+fact_0039,no_explanation,6,False,Who was the composer of Getting to Know You? Give only the answer.,Richard Rodgers,"Who was the composer of Getting to Know You? Give only the answer.
+
+Who was the composer of Getting to Know You? Give only the answer.
+
+Who was the composer of Getting to",16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0039,no_explanation,9,False,Who was the composer of Getting to Know You? Give only the answer.,Richard Rodgers,"Who was the composer of Getting to Know You? Give only the answer.
+
+Who was the composer of Getting to Know You? Give only the answer.
+
+Who was the composer of Getting to",16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0039,no_explanation,12,False,Who was the composer of Getting to Know You? Give only the answer.,Richard Rodgers,"Who was the composer of Getting to Know You? Give only the answer.
+
+Who was the composer of Getting to Know You? Give only the answer.
+
+Who was the composer of Getting to",16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0039,direct_answer,6,True,Directly answer this factual question: Who was the composer of Getting to Know You?,Richard Rodgers,"The answer is: <strong>Richard Rodgers.</strong>
+
+Richard Rodgers was an American composer and lyricist who wrote the music for the musical “The Sound of Music”. He was born in 1",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0039,direct_answer,9,True,Directly answer this factual question: Who was the composer of Getting to Know You?,Richard Rodgers,"The answer is: <strong>Richard Rodgers.</strong>
+
+Richard Rodgers was an American composer and lyricist who wrote the music for the musical “The Sound of Music”. He was born in 1",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0039,direct_answer,12,True,Directly answer this factual question: Who was the composer of Getting to Know You?,Richard Rodgers,"The answer is: <strong>Richard Rodgers.</strong>
+
+Richard Rodgers was an American composer and lyricist who wrote the music for the musical “The Sound of Music”. He was born in 1",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Getting | ▁to | ▁Know | ▁You | ?
+fact_0041,original,6,False,Who was the director of After Hours?,Martin Scorsese,"Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,original,9,False,Who was the director of After Hours?,Martin Scorsese,"Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,original,12,False,Who was the director of After Hours?,Martin Scorsese,"Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the director of After Hours?
+
+Who was the",9,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,short_direct,6,False,Who is the director of After Hours?,Martin Scorsese,"After Hours is a 2013 American comedy-drama film written and directed by Sam Levinson. It stars Jamie Dornan, Jennifer Hudson, and James Franco.
+
+What is the plot",9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,short_direct,9,False,Who is the director of After Hours?,Martin Scorsese,"After Hours is a 2013 American comedy-drama film written and directed by Sam Levinson. It stars Jamie Dornan, Jennifer Hudson, and James Franco.
+
+What is the plot",9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,short_direct,12,False,Who is the director of After Hours?,Martin Scorsese,"After Hours is a 2013 American comedy-drama film written and directed by Sam Levinson. It stars Jamie Dornan, Jennifer Hudson, and James Franco.
+
+What is the plot",9,<bos> | Who | ▁is | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,answer_briefly,6,False,Who was the director of After Hours? Answer briefly.,Martin Scorsese,"Who was the director of After Hours?
+
+Answer briefly.
+
+Who was the director of After Hours?
+
+Answer briefly.
+
+Who was the director of After Hours?
+
+Answer briefly.",12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Answer | ▁briefly | .
+fact_0041,answer_briefly,9,False,Who was the director of After Hours? Answer briefly.,Martin Scorsese,"Who was the director of After Hours?
+
+Answer briefly.
+
+Who was the director of After Hours?
+
+Answer briefly.
+
+Who was the director of After Hours?
+
+Answer briefly.",12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Answer | ▁briefly | .
+fact_0041,answer_briefly,12,False,Who was the director of After Hours? Answer briefly.,Martin Scorsese,"Who was the director of After Hours?
+
+Answer briefly.
+
+Who was the director of After Hours?
+
+Answer briefly.
+
+Who was the director of After Hours?
+
+Answer briefly.",12,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Answer | ▁briefly | .
+fact_0041,no_explanation,6,False,Who was the director of After Hours? Give only the answer.,Martin Scorsese,"Who was the director of After Hours? Give only the answer.
+
+Who was the director of After Hours? Give only the answer.
+
+Who was the director of After Hours? Give only the",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0041,no_explanation,9,False,Who was the director of After Hours? Give only the answer.,Martin Scorsese,"Who was the director of After Hours? Give only the answer.
+
+Who was the director of After Hours? Give only the answer.
+
+Who was the director of After Hours? Give only the",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0041,no_explanation,12,False,Who was the director of After Hours? Give only the answer.,Martin Scorsese,"Who was the director of After Hours? Give only the answer.
+
+Who was the director of After Hours? Give only the answer.
+
+Who was the director of After Hours? Give only the",14,<bos> | Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0041,direct_answer,6,True,Directly answer this factual question: Who was the director of After Hours?,Martin Scorsese,"The answer is Martin Scorsese.
+
+The question is a little more complicated than that.
+
+The question is: Who was the director of After Hours?
+
+The answer is Martin Scorsese.
+
+The",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,direct_answer,9,True,Directly answer this factual question: Who was the director of After Hours?,Martin Scorsese,"The answer is Martin Scorsese.
+
+The question is a little more complicated than that.
+
+The question is: Who was the director of After Hours?
+
+The answer is Martin Scorsese.
+
+The",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0041,direct_answer,12,True,Directly answer this factual question: Who was the director of After Hours?,Martin Scorsese,"The answer is Martin Scorsese.
+
+The question is a little more complicated than that.
+
+The question is: Who was the director of After Hours?
+
+The answer is Martin Scorsese.
+
+The",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁director | ▁of | ▁After | ▁Hours | ?
+fact_0047,original,6,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"What is the name of the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+
+What is the name of the author of Forever in Blue: The Fourth Summer of the Sister",18,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ?
+fact_0047,original,9,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"What is the name of the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+
+What is the name of the author of Forever in Blue: The Fourth Summer of the Sister",18,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ?
+fact_0047,original,12,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"What is the name of the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+
+What is the name of the author of Forever in Blue: The Fourth Summer of the Sister",18,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ?
+fact_0047,answer_briefly,6,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer briefly.,Ann Brashares,"Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer briefly.
+
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer",21,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ? | ▁Answer | ▁briefly | .
+fact_0047,answer_briefly,9,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer briefly.,Ann Brashares,"Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer briefly.
+
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer",21,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ? | ▁Answer | ▁briefly | .
+fact_0047,answer_briefly,12,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer briefly.,Ann Brashares,"Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer briefly.
+
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Answer",21,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ? | ▁Answer | ▁briefly | .
+fact_0047,no_explanation,6,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Give only the answer.,Ann Brashares,"Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Give only the answer.
+
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood",23,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0047,no_explanation,9,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Give only the answer.,Ann Brashares,"Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Give only the answer.
+
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood",23,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0047,no_explanation,12,False,Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Give only the answer.,Ann Brashares,"Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? Give only the answer.
+
+Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood",23,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0047,direct_answer,6,True,Directly answer this factual question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"The author of Forever in Blue: The Fourth Summer of the Sisterhood is Ann Brashares.
+
+The author of Forever in Blue: The Fourth Summer of the Sisterhood is Ann Brashares.",25,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ?
+fact_0047,direct_answer,9,True,Directly answer this factual question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"The author of Forever in Blue: The Fourth Summer of the Sisterhood is Ann Brashares.
+
+The author of Forever in Blue: The Fourth Summer of the Sisterhood is Ann Brashares.",25,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ?
+fact_0047,direct_answer,12,True,Directly answer this factual question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"The author of Forever in Blue: The Fourth Summer of the Sisterhood is Ann Brashares.
+
+The author of Forever in Blue: The Fourth Summer of the Sisterhood is Ann Brashares.",25,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁Forever | ▁in | ▁Blue | : | ▁The | ▁Fourth | ▁Summer | ▁of | ▁the | ▁Sister | hood | ?
+fact_0049,original,6,False,Who was the producer of Precious?,Lee Daniels,"Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?",8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,original,9,False,Who was the producer of Precious?,Lee Daniels,"Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?",8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,original,12,False,Who was the producer of Precious?,Lee Daniels,"Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?",8,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,short_direct,6,False,Who is the producer of Precious?,Lee Daniels,"Who is the director of Precious?
+
+What is the name of the character played by Mo'Nique?
+
+What is the name of the character played by Gabourey Sidibe?",8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,short_direct,9,False,Who is the producer of Precious?,Lee Daniels,"Who is the director of Precious?
+
+What is the name of the character played by Mo'Nique?
+
+What is the name of the character played by Gabourey Sidibe?",8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,short_direct,12,False,Who is the producer of Precious?,Lee Daniels,"Who is the director of Precious?
+
+What is the name of the character played by Mo'Nique?
+
+What is the name of the character played by Gabourey Sidibe?",8,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,answer_briefly,6,False,Who was the producer of Precious? Answer briefly.,Lee Daniels,"Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Answer | ▁briefly | .
+fact_0049,answer_briefly,9,False,Who was the producer of Precious? Answer briefly.,Lee Daniels,"Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Answer | ▁briefly | .
+fact_0049,answer_briefly,12,False,Who was the producer of Precious? Answer briefly.,Lee Daniels,"Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?
+
+Who was the producer of Precious?",11,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Answer | ▁briefly | .
+fact_0049,no_explanation,6,False,Who was the producer of Precious? Give only the answer.,Lee Daniels,"Who was the producer of Precious? Give only the answer.
+
+Who was the producer of Precious? Give only the answer.
+
+Who was the producer of Precious? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0049,no_explanation,9,False,Who was the producer of Precious? Give only the answer.,Lee Daniels,"Who was the producer of Precious? Give only the answer.
+
+Who was the producer of Precious? Give only the answer.
+
+Who was the producer of Precious? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0049,no_explanation,12,False,Who was the producer of Precious? Give only the answer.,Lee Daniels,"Who was the producer of Precious? Give only the answer.
+
+Who was the producer of Precious? Give only the answer.
+
+Who was the producer of Precious? Give only the answer.",13,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0049,direct_answer,6,True,Directly answer this factual question: Who was the producer of Precious?,Lee Daniels,"The answer is: <strong>Lee Daniels.</strong>
+
+Lee Daniels is an American film director, producer, and screenwriter. He is best known for his work on the films Precious: Based on the",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,direct_answer,9,True,Directly answer this factual question: Who was the producer of Precious?,Lee Daniels,"The answer is: <strong>Lee Daniels.</strong>
+
+Lee Daniels is an American film director, producer, and screenwriter. He is best known for his work on the films Precious: Based on the",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0049,direct_answer,12,True,Directly answer this factual question: Who was the producer of Precious?,Lee Daniels,"The answer is: <strong>Lee Daniels.</strong>
+
+Lee Daniels is an American film director, producer, and screenwriter. He is best known for his work on the films Precious: Based on the",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁Precious | ?
+fact_0051,original,6,False,Who was the composer of Petrushka chord?,Igor Stravinsky,"[User 0001]
+
+I'm trying to find out who composed the chord that is used in the song Petrushka. I've heard it used in a lot",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,original,9,False,Who was the composer of Petrushka chord?,Igor Stravinsky,"[User 0001]
+
+I'm trying to find out who composed the chord that is used in the song Petrushka. I've heard it used in a lot",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,original,12,False,Who was the composer of Petrushka chord?,Igor Stravinsky,"[User 0001]
+
+I'm trying to find out who composed the chord that is used in the song Petrushka. I've heard it used in a lot",11,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,short_direct,6,False,Who is the composer of Petrushka chord?,Igor Stravinsky,"[User 0001]
+
+I'm trying to find out who composed the chord that is played in the beginning of Petrushka. I've heard it in the movie",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,short_direct,9,False,Who is the composer of Petrushka chord?,Igor Stravinsky,"[User 0001]
+
+I'm trying to find out who composed the chord that is played in the beginning of Petrushka. I've heard it in the movie",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,short_direct,12,False,Who is the composer of Petrushka chord?,Igor Stravinsky,"[User 0001]
+
+I'm trying to find out who composed the chord that is played in the beginning of Petrushka. I've heard it in the movie",11,<bos> | Who | ▁is | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,answer_briefly,6,False,Who was the composer of Petrushka chord? Answer briefly.,Igor Stravinsky,"Who was the composer of Petrushka chord?
+
+Who was the composer of Petrushka chord?
+
+Who was the composer of Petrushka chord?
+
+Who was the composer of Pet",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Answer | ▁briefly | .
+fact_0051,answer_briefly,9,False,Who was the composer of Petrushka chord? Answer briefly.,Igor Stravinsky,"Who was the composer of Petrushka chord?
+
+Who was the composer of Petrushka chord?
+
+Who was the composer of Petrushka chord?
+
+Who was the composer of Pet",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Answer | ▁briefly | .
+fact_0051,answer_briefly,12,False,Who was the composer of Petrushka chord? Answer briefly.,Igor Stravinsky,"Who was the composer of Petrushka chord?
+
+Who was the composer of Petrushka chord?
+
+Who was the composer of Petrushka chord?
+
+Who was the composer of Pet",14,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Answer | ▁briefly | .
+fact_0051,no_explanation,6,False,Who was the composer of Petrushka chord? Give only the answer.,Igor Stravinsky,"Who was the composer of Petrushka chord? Give only the answer.
+
+Who was the composer of Petrushka chord? Give only the answer.
+
+Who was the composer of Petrush",16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0051,no_explanation,9,False,Who was the composer of Petrushka chord? Give only the answer.,Igor Stravinsky,"Who was the composer of Petrushka chord? Give only the answer.
+
+Who was the composer of Petrushka chord? Give only the answer.
+
+Who was the composer of Petrush",16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0051,no_explanation,12,False,Who was the composer of Petrushka chord? Give only the answer.,Igor Stravinsky,"Who was the composer of Petrushka chord? Give only the answer.
+
+Who was the composer of Petrushka chord? Give only the answer.
+
+Who was the composer of Petrush",16,<bos> | Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0051,direct_answer,6,True,Directly answer this factual question: Who was the composer of Petrushka chord?,Igor Stravinsky,"The answer is: <strong>Igor Stravinsky.</strong>
+
+Petrushka is a famous ballet composed by Igor Stravinsky in 1911. The ballet is based on the",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,direct_answer,9,True,Directly answer this factual question: Who was the composer of Petrushka chord?,Igor Stravinsky,"The answer is: <strong>Igor Stravinsky.</strong>
+
+Petrushka is a famous ballet composed by Igor Stravinsky in 1911. The ballet is based on the",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0051,direct_answer,12,True,Directly answer this factual question: Who was the composer of Petrushka chord?,Igor Stravinsky,"The answer is: <strong>Igor Stravinsky.</strong>
+
+Petrushka is a famous ballet composed by Igor Stravinsky in 1911. The ballet is based on the",18,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁composer | ▁of | ▁Pet | rush | ka | ▁chord | ?
+fact_0053,original,6,True,Who was the producer of The Fog?,Debra Hill,"The Fog was produced by Roger Corman.
+
+Who was the director of The Fog?
+
+The Fog was directed by John Carpenter.
+
+What was the release date of The Fog?
+
+The",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,original,9,True,Who was the producer of The Fog?,Debra Hill,"The Fog was produced by Roger Corman.
+
+Who was the director of The Fog?
+
+The Fog was directed by John Carpenter.
+
+What was the release date of The Fog?
+
+The",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,original,12,True,Who was the producer of The Fog?,Debra Hill,"The Fog was produced by Roger Corman.
+
+Who was the director of The Fog?
+
+The Fog was directed by John Carpenter.
+
+What was the release date of The Fog?
+
+The",9,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,short_direct,6,True,Who is the producer of The Fog?,Debra Hill,"The Fog is a 1980 American horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, and Hal Holbrook. The",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,short_direct,9,True,Who is the producer of The Fog?,Debra Hill,"The Fog is a 1980 American horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, and Hal Holbrook. The",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,short_direct,12,True,Who is the producer of The Fog?,Debra Hill,"The Fog is a 1980 American horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, and Hal Holbrook. The",9,<bos> | Who | ▁is | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,answer_briefly,6,False,Who was the producer of The Fog? Answer briefly.,Debra Hill,"Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Answer | ▁briefly | .
+fact_0053,answer_briefly,9,False,Who was the producer of The Fog? Answer briefly.,Debra Hill,"Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Answer | ▁briefly | .
+fact_0053,answer_briefly,12,False,Who was the producer of The Fog? Answer briefly.,Debra Hill,"Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the producer of The Fog?
+
+Who was the",12,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Answer | ▁briefly | .
+fact_0053,no_explanation,6,True,Who was the producer of The Fog? Give only the answer.,Debra Hill,"The Fog is a 1980 American supernatural horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, Hal Holbrook, and",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0053,no_explanation,9,True,Who was the producer of The Fog? Give only the answer.,Debra Hill,"The Fog is a 1980 American supernatural horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, Hal Holbrook, and",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0053,no_explanation,12,True,Who was the producer of The Fog? Give only the answer.,Debra Hill,"The Fog is a 1980 American supernatural horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, Hal Holbrook, and",14,<bos> | Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0053,direct_answer,6,True,Directly answer this factual question: Who was the producer of The Fog?,Debra Hill,"The Fog is a 1980 American horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, Hal Holbrook, and Adrienne",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,direct_answer,9,True,Directly answer this factual question: Who was the producer of The Fog?,Debra Hill,"The Fog is a 1980 American horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, Hal Holbrook, and Adrienne",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0053,direct_answer,12,True,Directly answer this factual question: Who was the producer of The Fog?,Debra Hill,"The Fog is a 1980 American horror film directed by John Carpenter and written by Carpenter and Debra Hill. The film stars Jamie Lee Curtis, Janet Leigh, Hal Holbrook, and Adrienne",16,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁producer | ▁of | ▁The | ▁Fog | ?
+fact_0054,original,6,False,Who is the author of Utopia?,Thomas More,"Who is the author of The Tempest?
+
+Who is the author of The Merchant of Venice?
+
+Who is the author of The Winter's Tale?
+
+Who is the author of The Tempest",8,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ?
+fact_0054,original,9,False,Who is the author of Utopia?,Thomas More,"Who is the author of The Tempest?
+
+Who is the author of The Merchant of Venice?
+
+Who is the author of The Winter's Tale?
+
+Who is the author of The Tempest",8,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ?
+fact_0054,original,12,False,Who is the author of Utopia?,Thomas More,"Who is the author of The Tempest?
+
+Who is the author of The Merchant of Venice?
+
+Who is the author of The Winter's Tale?
+
+Who is the author of The Tempest",8,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ?
+fact_0054,answer_briefly,6,False,Who is the author of Utopia? Answer briefly.,Thomas More,"What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the",11,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ? | ▁Answer | ▁briefly | .
+fact_0054,answer_briefly,9,False,Who is the author of Utopia? Answer briefly.,Thomas More,"What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the",11,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ? | ▁Answer | ▁briefly | .
+fact_0054,answer_briefly,12,False,Who is the author of Utopia? Answer briefly.,Thomas More,"What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the theme of the novel?
+
+What is the",11,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ? | ▁Answer | ▁briefly | .
+fact_0054,no_explanation,6,False,Who is the author of Utopia? Give only the answer.,Thomas More,"Who is the author of The Jungle Book? Give only the answer.
+
+Who is the author of The Jungle Book? Give only the answer.
+
+Who is the author of The Jungle Book?",13,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0054,no_explanation,9,False,Who is the author of Utopia? Give only the answer.,Thomas More,"Who is the author of The Jungle Book? Give only the answer.
+
+Who is the author of The Jungle Book? Give only the answer.
+
+Who is the author of The Jungle Book?",13,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0054,no_explanation,12,False,Who is the author of Utopia? Give only the answer.,Thomas More,"Who is the author of The Jungle Book? Give only the answer.
+
+Who is the author of The Jungle Book? Give only the answer.
+
+Who is the author of The Jungle Book?",13,<bos> | Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0054,direct_answer,6,True,Directly answer this factual question: Who is the author of Utopia?,Thomas More,"The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ?
+fact_0054,direct_answer,9,True,Directly answer this factual question: Who is the author of Utopia?,Thomas More,"The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ?
+fact_0054,direct_answer,12,True,Directly answer this factual question: Who is the author of Utopia?,Thomas More,"The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of Utopia is Thomas More.
+
+The author of",15,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁is | ▁the | ▁author | ▁of | ▁Utopia | ?
+fact_0057,original,6,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who was the screenwriter for",17,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,original,9,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who was the screenwriter for",17,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,original,12,False,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who was the screenwriter for",17,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,short_direct,6,False,Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who is the screenwriter for",17,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,short_direct,9,False,Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who is the screenwriter for",17,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,short_direct,12,False,Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who is the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+Who is the screenwriter for",17,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,answer_briefly,6,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,Pat Proft,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and",20,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Answer | ▁briefly | .
+fact_0057,answer_briefly,9,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,Pat Proft,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and",20,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Answer | ▁briefly | .
+fact_0057,answer_briefly,12,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,Pat Proft,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and",20,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Answer | ▁briefly | .
+fact_0057,no_explanation,6,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,Pat Proft,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and",22,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0057,no_explanation,9,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,Pat Proft,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and",22,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0057,no_explanation,12,True,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,Pat Proft,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and",22,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0057,direct_answer,6,False,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"The answer is:
+
+<blockquote><strong>Leslie Dixon</strong></blockquote>
+
+Leslie Dixon is a screenwriter, producer, and director. She is best known for her work on the 1988 film",24,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,direct_answer,9,False,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"The answer is:
+
+<blockquote><strong>Leslie Dixon</strong></blockquote>
+
+Leslie Dixon is a screenwriter, producer, and director. She is best known for her work on the 1988 film",24,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0057,direct_answer,12,False,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"The answer is:
+
+<blockquote><strong>Leslie Dixon</strong></blockquote>
+
+Leslie Dixon is a screenwriter, producer, and director. She is best known for her work on the 1988 film",24,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁The | ▁Naked | ▁Gun | : | ▁From | ▁the | ▁Files | ▁of | ▁Police | ▁Squad | !?
+fact_0059,original,6,False,Who was the screenwriter for Over the Top?,Stirling Silliphant,"Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?",10,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
+fact_0059,original,9,False,Who was the screenwriter for Over the Top?,Stirling Silliphant,"Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?",10,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
+fact_0059,original,12,False,Who was the screenwriter for Over the Top?,Stirling Silliphant,"Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?
+
+Who was the screenwriter for Over the Top?",10,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
+fact_0059,short_direct,6,True,Who is the screenwriter for Over the Top?,Stirling Silliphant,"Over the Top is a 1987 American action comedy film directed by John Carl Buechler and written by David Twohy. The film stars Sylvester Stallone, Robert Loggia,",10,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
+fact_0059,short_direct,9,True,Who is the screenwriter for Over the Top?,Stirling Silliphant,"Over the Top is a 1987 American action comedy film directed by John Carl Buechler and written by David Twohy. The film stars Sylvester Stallone, Robert Loggia,",10,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
+fact_0059,short_direct,12,True,Who is the screenwriter for Over the Top?,Stirling Silliphant,"Over the Top is a 1987 American action comedy film directed by John Carl Buechler and written by David Twohy. The film stars Sylvester Stallone, Robert Loggia,",10,<bos> | Who | ▁is | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
+fact_0059,answer_briefly,6,False,Who was the screenwriter for Over the Top? Answer briefly.,Stirling Silliphant,"Who was the screenwriter for Over the Top?
+
+Answer briefly.
+
+Who was the screenwriter for Over the Top?
+
+Answer briefly.
+
+Who was the screenwriter for Over the Top?
+
+Answer",13,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ? | ▁Answer | ▁briefly | .
+fact_0059,answer_briefly,9,False,Who was the screenwriter for Over the Top? Answer briefly.,Stirling Silliphant,"Who was the screenwriter for Over the Top?
+
+Answer briefly.
+
+Who was the screenwriter for Over the Top?
+
+Answer briefly.
+
+Who was the screenwriter for Over the Top?
+
+Answer",13,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ? | ▁Answer | ▁briefly | .
+fact_0059,answer_briefly,12,False,Who was the screenwriter for Over the Top? Answer briefly.,Stirling Silliphant,"Who was the screenwriter for Over the Top?
+
+Answer briefly.
+
+Who was the screenwriter for Over the Top?
+
+Answer briefly.
+
+Who was the screenwriter for Over the Top?
+
+Answer",13,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ? | ▁Answer | ▁briefly | .
+fact_0059,no_explanation,6,False,Who was the screenwriter for Over the Top? Give only the answer.,Stirling Silliphant,"Who was the screenwriter for Over the Top? Give only the answer.
+
+Who was the screenwriter for Over the Top? Give only the answer.
+
+Who was the screenwriter for Over the Top?",15,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0059,no_explanation,9,False,Who was the screenwriter for Over the Top? Give only the answer.,Stirling Silliphant,"Who was the screenwriter for Over the Top? Give only the answer.
+
+Who was the screenwriter for Over the Top? Give only the answer.
+
+Who was the screenwriter for Over the Top?",15,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0059,no_explanation,12,False,Who was the screenwriter for Over the Top? Give only the answer.,Stirling Silliphant,"Who was the screenwriter for Over the Top? Give only the answer.
+
+Who was the screenwriter for Over the Top? Give only the answer.
+
+Who was the screenwriter for Over the Top?",15,<bos> | Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ? | ▁Give | ▁only | ▁the | ▁answer | .
+fact_0059,direct_answer,6,False,Directly answer this factual question: Who was the screenwriter for Over the Top?,Stirling Silliphant,"The answer is:
+
+<strong>John Sayles</strong>
+
+John Sayles is an American screenwriter, director, and actor. He is best known for his work on the films <em>The Brother from",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
+fact_0059,direct_answer,9,False,Directly answer this factual question: Who was the screenwriter for Over the Top?,Stirling Silliphant,"The answer is:
+
+<strong>John Sayles</strong>
+
+John Sayles is an American screenwriter, director, and actor. He is best known for his work on the films <em>The Brother from",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
+fact_0059,direct_answer,12,False,Directly answer this factual question: Who was the screenwriter for Over the Top?,Stirling Silliphant,"The answer is:
+
+<strong>John Sayles</strong>
+
+John Sayles is an American screenwriter, director, and actor. He is best known for his work on the films <em>The Brother from",17,<bos> | Direct | ly | ▁answer | ▁this | ▁factual | ▁question | : | ▁Who | ▁was | ▁the | ▁screenwriter | ▁for | ▁Over | ▁the | ▁Top | ?
