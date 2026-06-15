@@ -1,4 +1,5 @@
 import argparse
+import ast
 import re
 import pandas as pd
 import torch
@@ -12,16 +13,53 @@ def normalize_text(text):
     return text
 
 
-def is_correct_answer(generated_answer, correct_answer):
+def parse_possible_answers(value, correct_answer):
+    answers = []
+
+    if pd.notna(correct_answer):
+        answers.append(str(correct_answer))
+
+    if pd.isna(value):
+        return answers
+
+    value = str(value)
+
+    try:
+        parsed = ast.literal_eval(value)
+        if isinstance(parsed, list):
+            answers.extend([str(x) for x in parsed])
+        else:
+            answers.append(str(parsed))
+    except Exception:
+        answers.append(value)
+
+    clean_answers = []
+    seen = set()
+
+    for ans in answers:
+        ans = ans.strip()
+        if ans and ans not in seen:
+            clean_answers.append(ans)
+            seen.add(ans)
+
+    return clean_answers
+
+
+def is_correct_answer(generated_answer, answer_aliases):
     generated_norm = normalize_text(generated_answer)
-    correct_norm = normalize_text(correct_answer)
-    return correct_norm in generated_norm
+
+    for ans in answer_aliases:
+        ans_norm = normalize_text(ans)
+        if ans_norm and ans_norm in generated_norm:
+            return True
+
+    return False
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input", default="data/tiny_prompt_variants.csv")
-    parser.add_argument("--output", default="outputs/tiny_prompt_outputs.csv")
+    parser.add_argument("--input", default="data/prompt_variants.csv")
+    parser.add_argument("--output", default="outputs/prompt_outputs_v1.csv")
     parser.add_argument("--model", default="google/gemma-2-2b-it")
     parser.add_argument("--max-new-tokens", type=int, default=40)
     args = parser.parse_args()
@@ -45,6 +83,9 @@ def main():
     for i, row in df.iterrows():
         question = row["question"]
         correct_answer = row["correct_answer"]
+        possible_answers = row.get("possible_answers", "")
+
+        answer_aliases = parse_possible_answers(possible_answers, correct_answer)
 
         inputs = tokenizer(question, return_tensors="pt").to("cuda")
         input_len = inputs["input_ids"].shape[-1]
@@ -68,21 +109,26 @@ def main():
             skip_special_tokens=True,
         ).strip()
 
-        correct = is_correct_answer(generated_answer, correct_answer)
+        correct = is_correct_answer(generated_answer, answer_aliases)
 
         print("=" * 80)
+        print(f"row: {i + 1}/{len(df)}")
         print("fact_id:", row["fact_id"])
         print("variant_id:", row["variant_id"])
         print("question:", question)
         print("generated:", generated_answer)
         print("correct_answer:", correct_answer)
+        print("answer_aliases:", answer_aliases[:5])
         print("is_correct:", correct)
 
         rows.append({
             "fact_id": row["fact_id"],
             "variant_id": row["variant_id"],
             "question": question,
+            "original_question": row.get("original_question", ""),
             "correct_answer": correct_answer,
+            "possible_answers": possible_answers,
+            "type": row.get("type", ""),
             "generated_answer": generated_answer,
             "full_output": full_output,
             "is_correct": correct,
