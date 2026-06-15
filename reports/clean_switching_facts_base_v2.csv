@@ -1,0 +1,151 @@
+fact_id,variant_id,question,original_question,correct_answer,possible_answers,type,generated_answer,full_output,is_correct,failure_type
+fact_0024,original,Who is the father of Kim Kardashian?,Who is the father of Kim Kardashian?,Robert Kardashian,"[""Robert Kardashian"", ""Robert George Kardashian"", ""Rob Kardashian""]",father,"Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the mother of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the father","Who is the father of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the mother of Kim Kardashian?
+
+Kim Kardashian is the daughter of Robert Kardashian and Kris Jenner.
+
+Who is the father",True,contains_correct_answer
+fact_0024,direct_answer,Directly answer this factual question: Who is the father of Kim Kardashian?,Who is the father of Kim Kardashian?,Robert Kardashian,"[""Robert Kardashian"", ""Robert George Kardashian"", ""Rob Kardashian""]",father,"The answer is Kanye West.
+
+But the question is a bit more complicated than that.
+
+Kim Kardashian and Kanye West have been married for six years.
+
+They have four children together.","Directly answer this factual question: Who is the father of Kim Kardashian?
+
+The answer is Kanye West.
+
+But the question is a bit more complicated than that.
+
+Kim Kardashian and Kanye West have been married for six years.
+
+They have four children together.",False,other_wrong_or_offtopic
+fact_0028,answer_briefly,Who is the father of Alexander Graham Bell? Answer briefly.,Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"Who is the father of Alexander Graham Bell?
+
+Alexander Graham Bell was born on March 3, 1847, in Edinburgh, Scotland. He was the son of Alexander Melville Bell","Who is the father of Alexander Graham Bell? Answer briefly.
+
+Who is the father of Alexander Graham Bell?
+
+Alexander Graham Bell was born on March 3, 1847, in Edinburgh, Scotland. He was the son of Alexander Melville Bell",True,contains_correct_answer
+fact_0028,direct_answer,Directly answer this factual question: Who is the father of Alexander Graham Bell?,Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"The answer is: <strong>Alexander Graham Bell</strong>.
+
+Alexander Graham Bell was born on March 3, 1847 in Edinburgh, Scotland. He was the son of Alexander Melville","Directly answer this factual question: Who is the father of Alexander Graham Bell?
+
+The answer is: <strong>Alexander Graham Bell</strong>.
+
+Alexander Graham Bell was born on March 3, 1847 in Edinburgh, Scotland. He was the son of Alexander Melville",False,other_wrong_or_offtopic
+fact_0029,short_direct,Who is the producer of Human Nature?,Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,"Human Nature is a group of four brothers from the Philippines. They are brothers Jerald, Michael, Reynan, and Rafael. They are the sons of a Filipino-American father and a Filipino","Who is the producer of Human Nature?
+
+Human Nature is a group of four brothers from the Philippines. They are brothers Jerald, Michael, Reynan, and Rafael. They are the sons of a Filipino-American father and a Filipino",False,other_wrong_or_offtopic
+fact_0029,direct_answer,Directly answer this factual question: Who was the producer of Human Nature?,Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,"The answer is: <strong>The producer of Human Nature is the American singer and songwriter Michael Jackson.</strong>
+
+Michael Jackson is a legendary figure in the world of music, known for his unique style","Directly answer this factual question: Who was the producer of Human Nature?
+
+The answer is: <strong>The producer of Human Nature is the American singer and songwriter Michael Jackson.</strong>
+
+Michael Jackson is a legendary figure in the world of music, known for his unique style",True,other_wrong_or_offtopic
+fact_0041,short_direct,Who is the director of After Hours?,Who was the director of After Hours?,Martin Scorsese,"[""Martin Scorsese"", ""Martin Skorseze"", ""Martin Charles Scorsese""]",director,"After Hours is a 2013 American comedy-drama film written and directed by Sam Levinson. It stars Jamie Dornan, Jennifer Hudson, and James Franco.
+
+What is the plot","Who is the director of After Hours?
+
+After Hours is a 2013 American comedy-drama film written and directed by Sam Levinson. It stars Jamie Dornan, Jennifer Hudson, and James Franco.
+
+What is the plot",False,other_wrong_or_offtopic
+fact_0041,direct_answer,Directly answer this factual question: Who was the director of After Hours?,Who was the director of After Hours?,Martin Scorsese,"[""Martin Scorsese"", ""Martin Skorseze"", ""Martin Charles Scorsese""]",director,"The answer is Martin Scorsese.
+
+The question is a little more complicated than that.
+
+The question is: Who was the director of After Hours?
+
+The answer is Martin Scorsese.
+
+The","Directly answer this factual question: Who was the director of After Hours?
+
+The answer is Martin Scorsese.
+
+The question is a little more complicated than that.
+
+The question is: Who was the director of After Hours?
+
+The answer is Martin Scorsese.
+
+The",True,contains_correct_answer
+fact_0049,short_direct,Who is the producer of Precious?,Who was the producer of Precious?,Lee Daniels,"[""Lee Daniels"", ""Lee Louis Daniels"", ""Oprah Winfrey"", ""Oprah Gail Winfrey"", ""Oprah"", ""Tyler Perry"", ""Emmitt Perry Jr.""]",producer,"Who is the director of Precious?
+
+What is the name of the character played by Mo'Nique?
+
+What is the name of the character played by Gabourey Sidibe?","Who is the producer of Precious?
+
+Who is the director of Precious?
+
+What is the name of the character played by Mo'Nique?
+
+What is the name of the character played by Gabourey Sidibe?",False,other_wrong_or_offtopic
+fact_0049,direct_answer,Directly answer this factual question: Who was the producer of Precious?,Who was the producer of Precious?,Lee Daniels,"[""Lee Daniels"", ""Lee Louis Daniels"", ""Oprah Winfrey"", ""Oprah Gail Winfrey"", ""Oprah"", ""Tyler Perry"", ""Emmitt Perry Jr.""]",producer,"The answer is: <strong>Lee Daniels.</strong>
+
+Lee Daniels is an American film director, producer, and screenwriter. He is best known for his work on the films Precious: Based on the","Directly answer this factual question: Who was the producer of Precious?
+
+The answer is: <strong>Lee Daniels.</strong>
+
+Lee Daniels is an American film director, producer, and screenwriter. He is best known for his work on the films Precious: Based on the",True,contains_correct_answer
+fact_0051,original,Who was the composer of Petrushka chord?,Who was the composer of Petrushka chord?,Igor Stravinsky,"[""Igor Stravinsky"", ""Igor Fyodorovich Stravinsky"", ""Stravinsky"", ""Igor Strawinski"", ""Igor Strawinsky"", ""Igor Stravinskii"", ""Igor Feodorovich Stravinsky"", ""Jgor Strawinsky"", ""Igor Strawinskij"", ""Igor Stravinski"", ""Igor Fedorovich Stravinsky"", ""I. Strawinsky""]",composer,"[User 0001]
+
+I'm trying to find out who composed the chord that is used in the song Petrushka. I've heard it used in a lot","Who was the composer of Petrushka chord?
+
+[User 0001]
+
+I'm trying to find out who composed the chord that is used in the song Petrushka. I've heard it used in a lot",False,other_wrong_or_offtopic
+fact_0051,short_direct,Who is the composer of Petrushka chord?,Who was the composer of Petrushka chord?,Igor Stravinsky,"[""Igor Stravinsky"", ""Igor Fyodorovich Stravinsky"", ""Stravinsky"", ""Igor Strawinski"", ""Igor Strawinsky"", ""Igor Stravinskii"", ""Igor Feodorovich Stravinsky"", ""Jgor Strawinsky"", ""Igor Strawinskij"", ""Igor Stravinski"", ""Igor Fedorovich Stravinsky"", ""I. Strawinsky""]",composer,"[User 0001]
+
+I'm trying to find out who composed the chord that is played in the beginning of Petrushka. I've heard it in the movie","Who is the composer of Petrushka chord?
+
+[User 0001]
+
+I'm trying to find out who composed the chord that is played in the beginning of Petrushka. I've heard it in the movie",False,other_wrong_or_offtopic
+fact_0051,direct_answer,Directly answer this factual question: Who was the composer of Petrushka chord?,Who was the composer of Petrushka chord?,Igor Stravinsky,"[""Igor Stravinsky"", ""Igor Fyodorovich Stravinsky"", ""Stravinsky"", ""Igor Strawinski"", ""Igor Strawinsky"", ""Igor Stravinskii"", ""Igor Feodorovich Stravinsky"", ""Jgor Strawinsky"", ""Igor Strawinskij"", ""Igor Stravinski"", ""Igor Fedorovich Stravinsky"", ""I. Strawinsky""]",composer,"The answer is: <strong>Igor Stravinsky.</strong>
+
+Petrushka is a famous ballet composed by Igor Stravinsky in 1911. The ballet is based on the","Directly answer this factual question: Who was the composer of Petrushka chord?
+
+The answer is: <strong>Igor Stravinsky.</strong>
+
+Petrushka is a famous ballet composed by Igor Stravinsky in 1911. The ballet is based on the",True,contains_correct_answer
+fact_0057,answer_briefly,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"[""Pat Proft"", ""Jerry Zucker"", ""Jim Abrahams"", ""James S. Abrahams"", ""David Zucker""]",screenwriter,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and","Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Answer briefly.
+
+The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and",True,other_wrong_or_offtopic
+fact_0057,no_explanation,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"[""Pat Proft"", ""Jerry Zucker"", ""Jim Abrahams"", ""James S. Abrahams"", ""David Zucker""]",screenwriter,"The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and","Who was the screenwriter for The Naked Gun: From the Files of Police Squad!? Give only the answer.
+
+The Naked Gun: From the Files of Police Squad! is a 1988 American comedy film directed by David Zucker, written by Zucker, Jim Abrahams, and Jerry Zucker, and",True,other_wrong_or_offtopic
+fact_0057,direct_answer,Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?,Pat Proft,"[""Pat Proft"", ""Jerry Zucker"", ""Jim Abrahams"", ""James S. Abrahams"", ""David Zucker""]",screenwriter,"The answer is:
+
+<blockquote><strong>Leslie Dixon</strong></blockquote>
+
+Leslie Dixon is a screenwriter, producer, and director. She is best known for her work on the 1988 film","Directly answer this factual question: Who was the screenwriter for The Naked Gun: From the Files of Police Squad!?
+
+The answer is:
+
+<blockquote><strong>Leslie Dixon</strong></blockquote>
+
+Leslie Dixon is a screenwriter, producer, and director. She is best known for her work on the 1988 film",False,other_wrong_or_offtopic
+fact_0059,short_direct,Who is the screenwriter for Over the Top?,Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"Over the Top is a 1987 American action comedy film directed by John Carl Buechler and written by David Twohy. The film stars Sylvester Stallone, Robert Loggia,","Who is the screenwriter for Over the Top?
+
+Over the Top is a 1987 American action comedy film directed by John Carl Buechler and written by David Twohy. The film stars Sylvester Stallone, Robert Loggia,",True,other_wrong_or_offtopic
+fact_0059,direct_answer,Directly answer this factual question: Who was the screenwriter for Over the Top?,Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"The answer is:
+
+<strong>John Sayles</strong>
+
+John Sayles is an American screenwriter, director, and actor. He is best known for his work on the films <em>The Brother from","Directly answer this factual question: Who was the screenwriter for Over the Top?
+
+The answer is:
+
+<strong>John Sayles</strong>
+
+John Sayles is an American screenwriter, director, and actor. He is best known for his work on the films <em>The Brother from",False,other_wrong_or_offtopic
