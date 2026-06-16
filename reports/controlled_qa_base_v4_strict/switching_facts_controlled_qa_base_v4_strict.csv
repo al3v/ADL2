@@ -1,0 +1,878 @@
+fact_id,variant_id,question,original_question,correct_answer,possible_answers,type,generated_answer,full_output,is_correct,old_is_correct,strict_matched_answer,strict_answer_segment
+fact_0001,original,"Question: Who was the composer of Samson?
+Answer:",Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",composer,"George Frideric Handel
+
+Question: What is the name of the opera that was written by George Frideric Handel?
+Answer: Samson","Question: Who was the composer of Samson?
+Answer: George Frideric Handel
+
+Question: What is the name of the opera that was written by George Frideric Handel?
+Answer: Samson",True,True,George Frideric Handel,George Frideric Handel
+fact_0001,leading_space,"Question:  Who was the composer of Samson?
+Answer:",Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",composer,"Joseph Haydn
+
+Question:  What is the name of the opera that was written by Mozart?
+Answer:  The Magic Flute
+
+Question:","Question:  Who was the composer of Samson?
+Answer:  Joseph Haydn
+
+Question:  What is the name of the opera that was written by Mozart?
+Answer:  The Magic Flute
+
+Question:",False,False,,Joseph Haydn
+fact_0001,trailing_space,"Question: Who was the composer of Samson? 
+Answer:",Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",composer,"George Frideric Handel
+
+Question: What is the name of the opera that was written by George Frideric Handel? 
+Answer: Samson","Question: Who was the composer of Samson? 
+Answer: George Frideric Handel
+
+Question: What is the name of the opera that was written by George Frideric Handel? 
+Answer: Samson",True,True,George Frideric Handel,George Frideric Handel
+fact_0001,space_before_qmark,"Question: Who was the composer of Samson ?
+Answer:",Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",composer,"George Frideric Handel
+
+Question: What is the name of the opera that was written by George Frideric Handel ?
+Answer: Samson","Question: Who was the composer of Samson ?
+Answer: George Frideric Handel
+
+Question: What is the name of the opera that was written by George Frideric Handel ?
+Answer: Samson",True,True,George Frideric Handel,George Frideric Handel
+fact_0001,no_qmark,"Question: Who was the composer of Samson
+Answer:",Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",composer,"Delibes
+
+Question: What is the name of the opera that
+Answer: Samson and Delilah
+
+Question: What is the name of the opera","Question: Who was the composer of Samson
+Answer: Delibes
+
+Question: What is the name of the opera that
+Answer: Samson and Delilah
+
+Question: What is the name of the opera",False,False,,Delibes
+fact_0001,lower_first_char,"Question: who was the composer of Samson?
+Answer:",Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",composer,"George Frideric Handel
+
+Question: what is the name of the opera that was written by Handel?
+Answer: Samson
+
+Question: what is","Question: who was the composer of Samson?
+Answer: George Frideric Handel
+
+Question: what is the name of the opera that was written by Handel?
+Answer: Samson
+
+Question: what is",True,True,George Frideric Handel,George Frideric Handel
+fact_0001,double_first_space,"Question: Who  was the composer of Samson?
+Answer:",Who was the composer of Samson?,George Frideric Handel,"[""George Frideric Handel"", ""Handel"", ""G. F. Handel"", ""Georg Friedrich Händel"", ""George Frederick Handel"", ""G. F. Händel"", ""Händel"", ""George Frideric""]",composer,"Joseph Haydn
+
+Question: Who was the composer of the 1812 Overture?
+Answer:  Tchaikovsky
+
+Question: Who was","Question: Who  was the composer of Samson?
+Answer:  Joseph Haydn
+
+Question: Who was the composer of the 1812 Overture?
+Answer:  Tchaikovsky
+
+Question: Who was",False,False,,Joseph Haydn
+fact_0002,original,"Question: Who was the producer of Reds?
+Answer:",Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",producer,"Dalton Trumbo
+
+Question: What was the name of the film that won the Oscar for Best Picture in 1956?
+Answer:","Question: Who was the producer of Reds?
+Answer: Dalton Trumbo
+
+Question: What was the name of the film that won the Oscar for Best Picture in 1956?
+Answer:",False,False,,Dalton Trumbo
+fact_0002,leading_space,"Question:  Who was the producer of Reds?
+Answer:",Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",producer,"Warren Beatty
+
+Question:  Who was the director of Reds?
+Answer:  Warren Beatty
+
+Question:  Who was the writer of Reds","Question:  Who was the producer of Reds?
+Answer:  Warren Beatty
+
+Question:  Who was the director of Reds?
+Answer:  Warren Beatty
+
+Question:  Who was the writer of Reds",True,True,Warren Beatty,Warren Beatty
+fact_0002,trailing_space,"Question: Who was the producer of Reds? 
+Answer:",Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",producer,"Dalton Trumbo
+
+Question: What was the name of the film that won the Oscar for Best Picture in 1956? 
+Answer","Question: Who was the producer of Reds? 
+Answer: Dalton Trumbo
+
+Question: What was the name of the film that won the Oscar for Best Picture in 1956? 
+Answer",False,False,,Dalton Trumbo
+fact_0002,space_before_qmark,"Question: Who was the producer of Reds ?
+Answer:",Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",producer,"Dalton Trumbo
+
+Question: What was the name of the film that was banned in the US ?
+Answer: The Grapes of Wrath
+
+Question:","Question: Who was the producer of Reds ?
+Answer: Dalton Trumbo
+
+Question: What was the name of the film that was banned in the US ?
+Answer: The Grapes of Wrath
+
+Question:",False,False,,Dalton Trumbo
+fact_0002,no_qmark,"Question: Who was the producer of Reds
+Answer:",Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",producer,"Dalton Trumbo
+
+Question: Who was the director of Reds
+Answer: Warren Beatty
+
+Question: Who was the writer of Reds
+Answer: Dalton","Question: Who was the producer of Reds
+Answer: Dalton Trumbo
+
+Question: Who was the director of Reds
+Answer: Warren Beatty
+
+Question: Who was the writer of Reds
+Answer: Dalton",False,True,,Dalton Trumbo
+fact_0002,lower_first_char,"Question: who was the producer of Reds?
+Answer:",Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",producer,"Dalton Trumbo
+
+Question: who was the director of Reds?
+Answer: Warren Beatty
+
+Question: who was the writer of Reds?
+Answer","Question: who was the producer of Reds?
+Answer: Dalton Trumbo
+
+Question: who was the director of Reds?
+Answer: Warren Beatty
+
+Question: who was the writer of Reds?
+Answer",False,True,,Dalton Trumbo
+fact_0002,double_first_space,"Question: Who  was the producer of Reds?
+Answer:",Who was the producer of Reds?,Warren Beatty,"[""Warren Beatty"", ""Henry Warren Beaty"", ""Henry Warren Beatty""]",producer,"Dalton Trumbo
+
+Question: What was the name of the film that was banned in the US?
+Answer: The Grapes of Wrath
+
+Question:","Question: Who  was the producer of Reds?
+Answer: Dalton Trumbo
+
+Question: What was the name of the film that was banned in the US?
+Answer: The Grapes of Wrath
+
+Question:",False,False,,Dalton Trumbo
+fact_0004,original,"Question: Who was the composer of Cabaret?
+Answer:",Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",composer,"Kander and Ebb
+
+Question: What is the name of the character played by Liza Minnelli in Cabaret?
+Answer: Sally Bowles","Question: Who was the composer of Cabaret?
+Answer: Kander and Ebb
+
+Question: What is the name of the character played by Liza Minnelli in Cabaret?
+Answer: Sally Bowles",False,False,,Kander and Ebb
+fact_0004,leading_space,"Question:  Who was the composer of Cabaret?
+Answer:",Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",composer,"Kander and Ebb
+
+Question:  What is the name of the character played by Liza Minnelli in Cabaret?
+Answer:","Question:  Who was the composer of Cabaret?
+Answer:  Kander and Ebb
+
+Question:  What is the name of the character played by Liza Minnelli in Cabaret?
+Answer:",False,False,,Kander and Ebb
+fact_0004,trailing_space,"Question: Who was the composer of Cabaret? 
+Answer:",Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",composer,"Kander and Ebb
+
+Question: What is the name of the character played by Liza Minnelli in Cabaret? 
+Answer: Sally Bowles","Question: Who was the composer of Cabaret? 
+Answer: Kander and Ebb
+
+Question: What is the name of the character played by Liza Minnelli in Cabaret? 
+Answer: Sally Bowles",False,False,,Kander and Ebb
+fact_0004,space_before_qmark,"Question: Who was the composer of Cabaret ?
+Answer:",Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",composer,"Kander and Ebb
+
+Question: What is the name of the character played by Liza Minnelli in Cabaret ?
+Answer: Sally Bowles","Question: Who was the composer of Cabaret ?
+Answer: Kander and Ebb
+
+Question: What is the name of the character played by Liza Minnelli in Cabaret ?
+Answer: Sally Bowles",False,False,,Kander and Ebb
+fact_0004,no_qmark,"Question: Who was the composer of Cabaret
+Answer:",Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",composer,"Kander and Ebb
+
+Question: Who was the composer of the musical Chicago
+Answer: John Kander and Fred Ebb
+
+Question: Who","Question: Who was the composer of Cabaret
+Answer: Kander and Ebb
+
+Question: Who was the composer of the musical Chicago
+Answer: John Kander and Fred Ebb
+
+Question: Who",False,True,,Kander and Ebb
+fact_0004,lower_first_char,"Question: who was the composer of Cabaret?
+Answer:",Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",composer,"Kander and Ebb
+
+Question: what is the name of the character played by Liza Minnelli in Cabaret?
+Answer: Sally Bowles","Question: who was the composer of Cabaret?
+Answer: Kander and Ebb
+
+Question: what is the name of the character played by Liza Minnelli in Cabaret?
+Answer: Sally Bowles",False,False,,Kander and Ebb
+fact_0004,double_first_space,"Question: Who  was the composer of Cabaret?
+Answer:",Who was the composer of Cabaret?,John Kander,"[""John Kander"", ""John Harold Kander""]",composer,"John Kander and Fred Ebb
+
+Question: What is the name of the character played by Liza Minnelli in Cabaret?
+Answer: Sally","Question: Who  was the composer of Cabaret?
+Answer: John Kander and Fred Ebb
+
+Question: What is the name of the character played by Liza Minnelli in Cabaret?
+Answer: Sally",True,True,John Kander,John Kander and Fred Ebb
+fact_0007,original,"Question: Who was the screenwriter for Uzak?
+Answer:",Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",screenwriter,"Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan.
+
+Question: What is the meaning of the","Question: Who was the screenwriter for Uzak?
+Answer: Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan.
+
+Question: What is the meaning of the",True,True,Nuri Bilge Ceylan,"Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan."
+fact_0007,leading_space,"Question:  Who was the screenwriter for Uzak?
+Answer:",Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",screenwriter,"Yılmaz Güney
+
+Question:  What is the name of the character played by Yılmaz Güney in Uzak?
+Answer:","Question:  Who was the screenwriter for Uzak?
+Answer:  Yılmaz Güney
+
+Question:  What is the name of the character played by Yılmaz Güney in Uzak?
+Answer:",False,False,,Yılmaz Güney
+fact_0007,trailing_space,"Question: Who was the screenwriter for Uzak? 
+Answer:",Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",screenwriter,,"Question: Who was the screenwriter for Uzak? 
+Answer:",False,False,,
+fact_0007,space_before_qmark,"Question: Who was the screenwriter for Uzak ?
+Answer:",Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",screenwriter,"Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan.
+
+Question: What is the meaning of the","Question: Who was the screenwriter for Uzak ?
+Answer: Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan.
+
+Question: What is the meaning of the",True,True,Nuri Bilge Ceylan,"Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan."
+fact_0007,no_qmark,"Question: Who was the screenwriter for Uzak
+Answer:",Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",screenwriter,"Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan.
+
+Question: What is the meaning of the","Question: Who was the screenwriter for Uzak
+Answer: Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan.
+
+Question: What is the meaning of the",True,True,Nuri Bilge Ceylan,"Uzak was written by the famous Turkish screenwriter, writer and director, Nuri Bilge Ceylan."
+fact_0007,lower_first_char,"Question: who was the screenwriter for Uzak?
+Answer:",Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",screenwriter,"Question: What is the name of the character played by the actor who plays the role of the father in Uzak?
+Answer:
+
+Question","Question: who was the screenwriter for Uzak?
+Answer:
+
+Question: What is the name of the character played by the actor who plays the role of the father in Uzak?
+Answer:
+
+Question",False,False,,"Question: What is the name of the character played by the actor who plays the role of the father in Uzak?
+Answer:
+
+Question"
+fact_0007,double_first_space,"Question: Who  was the screenwriter for Uzak?
+Answer:",Who was the screenwriter for Uzak?,Nuri Bilge Ceylan,"[""Nuri Bilge Ceylan""]",screenwriter,"Yılmaz Güney
+
+Question: What was the name of the film that was banned in Turkey?
+Answer:  Uzak
+
+Question:","Question: Who  was the screenwriter for Uzak?
+Answer:  Yılmaz Güney
+
+Question: What was the name of the film that was banned in Turkey?
+Answer:  Uzak
+
+Question:",False,False,,Yılmaz Güney
+fact_0013,original,"Question: Who was the director of The Doors?
+Answer:",Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",director,"Oliver Stone
+
+Question: What is the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: What is the","Question: Who was the director of The Doors?
+Answer: Oliver Stone
+
+Question: What is the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: What is the",True,True,Oliver Stone,Oliver Stone
+fact_0013,leading_space,"Question:  Who was the director of The Doors?
+Answer:",Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",director,"Jim Morrison
+
+Question:  What was the name of the band that Jim Morrison was in before The Doors?
+Answer:  The Rattles","Question:  Who was the director of The Doors?
+Answer:  Jim Morrison
+
+Question:  What was the name of the band that Jim Morrison was in before The Doors?
+Answer:  The Rattles",False,False,,Jim Morrison
+fact_0013,trailing_space,"Question: Who was the director of The Doors? 
+Answer:",Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",director,"Oliver Stone
+
+Question: What was the name of the band that was featured in the movie? 
+Answer: The Doors
+
+Question: What was","Question: Who was the director of The Doors? 
+Answer: Oliver Stone
+
+Question: What was the name of the band that was featured in the movie? 
+Answer: The Doors
+
+Question: What was",True,True,Oliver Stone,Oliver Stone
+fact_0013,space_before_qmark,"Question: Who was the director of The Doors ?
+Answer:",Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",director,"Oliver Stone
+
+Question: What is the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: What is the","Question: Who was the director of The Doors ?
+Answer: Oliver Stone
+
+Question: What is the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: What is the",True,True,Oliver Stone,Oliver Stone
+fact_0013,no_qmark,"Question: Who was the director of The Doors
+Answer:",Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",director,"Oliver Stone
+
+Question: What was the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: What was the","Question: Who was the director of The Doors
+Answer: Oliver Stone
+
+Question: What was the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: What was the",True,True,Oliver Stone,Oliver Stone
+fact_0013,lower_first_char,"Question: who was the director of The Doors?
+Answer:",Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",director,"Oliver Stone
+
+Question: what is the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: what is the","Question: who was the director of The Doors?
+Answer: Oliver Stone
+
+Question: what is the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: what is the",True,True,Oliver Stone,Oliver Stone
+fact_0013,double_first_space,"Question: Who  was the director of The Doors?
+Answer:",Who was the director of The Doors?,Oliver Stone,"[""Oliver Stone"", ""William Oliver Stone""]",director,"Oliver Stone
+
+Question: What was the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: What was the","Question: Who  was the director of The Doors?
+Answer: Oliver Stone
+
+Question: What was the name of the band that was featured in the movie?
+Answer: The Doors
+
+Question: What was the",True,True,Oliver Stone,Oliver Stone
+fact_0028,original,"Question: Who is the father of Alexander Graham Bell?
+Answer:",Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"Alexander Melville Bell
+
+Question: What is the name of the first telephone?
+Answer: Bell Telephone
+
+Question: What is the name of the first","Question: Who is the father of Alexander Graham Bell?
+Answer: Alexander Melville Bell
+
+Question: What is the name of the first telephone?
+Answer: Bell Telephone
+
+Question: What is the name of the first",True,True,Alexander Melville Bell,Alexander Melville Bell
+fact_0028,leading_space,"Question:  Who is the father of Alexander Graham Bell?
+Answer:",Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"Alexander Graham Bell was born in Edinburgh, Scotland, on March 3, 1847.  His father, Alexander Melville Bell,","Question:  Who is the father of Alexander Graham Bell?
+Answer:  Alexander Graham Bell was born in Edinburgh, Scotland, on March 3, 1847.  His father, Alexander Melville Bell,",True,True,Alexander Melville Bell,"Alexander Graham Bell was born in Edinburgh, Scotland, on March 3, 1847.  His father, Alexander Melville Bell,"
+fact_0028,trailing_space,"Question: Who is the father of Alexander Graham Bell? 
+Answer:",Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"Alexander Graham Bell was born in Edinburgh, Scotland, on March 3, 1847. His father, Alexander Melville Bell, was a","Question: Who is the father of Alexander Graham Bell? 
+Answer: Alexander Graham Bell was born in Edinburgh, Scotland, on March 3, 1847. His father, Alexander Melville Bell, was a",True,True,Alexander Melville Bell,"Alexander Graham Bell was born in Edinburgh, Scotland, on March 3, 1847. His father, Alexander Melville Bell, was a"
+fact_0028,space_before_qmark,"Question: Who is the father of Alexander Graham Bell ?
+Answer:",Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"Alexander Melville Bell
+
+Question: Who is the father of Alexander Graham Bell ?
+Answer: Alexander Melville Bell
+
+Question: Who is the father of Alexander","Question: Who is the father of Alexander Graham Bell ?
+Answer: Alexander Melville Bell
+
+Question: Who is the father of Alexander Graham Bell ?
+Answer: Alexander Melville Bell
+
+Question: Who is the father of Alexander",True,True,Alexander Melville Bell,Alexander Melville Bell
+fact_0028,no_qmark,"Question: Who is the father of Alexander Graham Bell
+Answer:",Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"Alexander Graham Bell
+
+Question: What is the name of the first telephone?
+Answer: Alexander Graham Bell
+
+Question: What is the name of the","Question: Who is the father of Alexander Graham Bell
+Answer: Alexander Graham Bell
+
+Question: What is the name of the first telephone?
+Answer: Alexander Graham Bell
+
+Question: What is the name of the",False,False,,Alexander Graham Bell
+fact_0028,lower_first_char,"Question: who is the father of Alexander Graham Bell?
+Answer:",Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"Alexander Graham Bell
+
+Question: what is the name of the first telephone?
+Answer: Alexander Graham Bell
+
+Question: what is the name of the","Question: who is the father of Alexander Graham Bell?
+Answer: Alexander Graham Bell
+
+Question: what is the name of the first telephone?
+Answer: Alexander Graham Bell
+
+Question: what is the name of the",False,False,,Alexander Graham Bell
+fact_0028,double_first_space,"Question: Who  is the father of Alexander Graham Bell?
+Answer:",Who is the father of Alexander Graham Bell?,Alexander Melville Bell,"[""Alexander Melville Bell""]",father,"Alexander Melville Bell
+
+Question: What is the name of the first telephone?
+Answer: Bell Telephone
+
+Question: What is the name of the first","Question: Who  is the father of Alexander Graham Bell?
+Answer: Alexander Melville Bell
+
+Question: What is the name of the first telephone?
+Answer: Bell Telephone
+
+Question: What is the name of the first",True,True,Alexander Melville Bell,Alexander Melville Bell
+fact_0029,original,"Question: Who was the producer of Human Nature?
+Answer:",Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,"The producer of Human Nature was the late, great, and legendary producer, Quincy Jones.
+
+Question: What was the name of the song that was","Question: Who was the producer of Human Nature?
+Answer: The producer of Human Nature was the late, great, and legendary producer, Quincy Jones.
+
+Question: What was the name of the song that was",True,True,Quincy Jones,"The producer of Human Nature was the late, great, and legendary producer, Quincy Jones."
+fact_0029,leading_space,"Question:  Who was the producer of Human Nature?
+Answer:",Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,"The producer of Human Nature was the late, great, and legendary, Mr. John D. Lyles.  He was the producer of the","Question:  Who was the producer of Human Nature?
+Answer:  The producer of Human Nature was the late, great, and legendary, Mr. John D. Lyles.  He was the producer of the",False,False,,"The producer of Human Nature was the late, great, and legendary, Mr. John D. Lyles.  He was the producer of the"
+fact_0029,trailing_space,"Question: Who was the producer of Human Nature? 
+Answer:",Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,,"Question: Who was the producer of Human Nature? 
+Answer:",False,False,,
+fact_0029,space_before_qmark,"Question: Who was the producer of Human Nature ?
+Answer:",Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,"Michael Jackson
+
+Question: What was the name of the song that Michael Jackson sang with Human Nature ?
+Answer: I Want You Back
+
+Question:","Question: Who was the producer of Human Nature ?
+Answer: Michael Jackson
+
+Question: What was the name of the song that Michael Jackson sang with Human Nature ?
+Answer: I Want You Back
+
+Question:",False,True,,Michael Jackson
+fact_0029,no_qmark,"Question: Who was the producer of Human Nature
+Answer:",Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,"The producer of Human Nature was the BBC.
+
+Question: What was the name of the first episode of Human Nature?
+Answer: The first episode","Question: Who was the producer of Human Nature
+Answer: The producer of Human Nature was the BBC.
+
+Question: What was the name of the first episode of Human Nature?
+Answer: The first episode",False,True,,The producer of Human Nature was the BBC.
+fact_0029,lower_first_char,"Question: who was the producer of Human Nature?
+Answer:",Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,"Michael Jackson
+
+Question: What was the name of the song that Michael Jackson wrote for Human Nature?
+Answer: Human Nature
+
+Question: What was","Question: who was the producer of Human Nature?
+Answer: Michael Jackson
+
+Question: What was the name of the song that Michael Jackson wrote for Human Nature?
+Answer: Human Nature
+
+Question: What was",False,True,,Michael Jackson
+fact_0029,double_first_space,"Question: Who  was the producer of Human Nature?
+Answer:",Who was the producer of Human Nature?,Quincy Jones,"[""Quincy Jones"", ""Q"", ""Quincy"", ""Quincy Delight Jones Jr."", ""Quincy Jones Jr.""]",producer,"The producer of Human Nature was the late  Mr.  John  D.  McIntosh.
+
+Question: What was the name of","Question: Who  was the producer of Human Nature?
+Answer:  The producer of Human Nature was the late  Mr.  John  D.  McIntosh.
+
+Question: What was the name of",False,True,,The producer of Human Nature was the late  Mr.  John  D.  McIntosh.
+fact_0031,original,"Question: Who is the father of David I of Scotland?
+Answer:",Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",father,"King Malcolm III of Scotland
+
+Question: What is the name of the Scottish king who was killed by his own son?
+Answer: King Duncan","Question: Who is the father of David I of Scotland?
+Answer: King Malcolm III of Scotland
+
+Question: What is the name of the Scottish king who was killed by his own son?
+Answer: King Duncan",True,True,Malcolm III of Scotland,King Malcolm III of Scotland
+fact_0031,leading_space,"Question:  Who is the father of David I of Scotland?
+Answer:",Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",father,"David I was the son of Malcolm III of Scotland.
+
+Question:  What was the name of the first king of Scotland?
+Answer:","Question:  Who is the father of David I of Scotland?
+Answer:  David I was the son of Malcolm III of Scotland.
+
+Question:  What was the name of the first king of Scotland?
+Answer:",True,True,Malcolm III of Scotland,David I was the son of Malcolm III of Scotland.
+fact_0031,trailing_space,"Question: Who is the father of David I of Scotland? 
+Answer:",Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",father,"King Malcolm III of Scotland
+
+Question: What is the name of the Scottish king who was killed by his own son? 
+Answer: King Duncan","Question: Who is the father of David I of Scotland? 
+Answer: King Malcolm III of Scotland
+
+Question: What is the name of the Scottish king who was killed by his own son? 
+Answer: King Duncan",True,True,Malcolm III of Scotland,King Malcolm III of Scotland
+fact_0031,space_before_qmark,"Question: Who is the father of David I of Scotland ?
+Answer:",Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",father,"King Malcolm III of Scotland
+
+Question: What is the name of the Scottish king who was killed by his own son ?
+Answer: King Duncan","Question: Who is the father of David I of Scotland ?
+Answer: King Malcolm III of Scotland
+
+Question: What is the name of the Scottish king who was killed by his own son ?
+Answer: King Duncan",True,True,Malcolm III of Scotland,King Malcolm III of Scotland
+fact_0031,no_qmark,"Question: Who is the father of David I of Scotland
+Answer:",Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",father,"William the Lion
+
+Question: Who was the first king of Scotland to be crowned in Scone?
+Answer: David I
+
+Question: Who was","Question: Who is the father of David I of Scotland
+Answer: William the Lion
+
+Question: Who was the first king of Scotland to be crowned in Scone?
+Answer: David I
+
+Question: Who was",False,False,,William the Lion
+fact_0031,lower_first_char,"Question: who is the father of David I of Scotland?
+Answer:",Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",father,"William I of Scotland
+
+Question: who was the first king of Scotland to be crowned in Scone?
+Answer: David I
+
+Question: who","Question: who is the father of David I of Scotland?
+Answer: William I of Scotland
+
+Question: who was the first king of Scotland to be crowned in Scone?
+Answer: David I
+
+Question: who",False,False,,William I of Scotland
+fact_0031,double_first_space,"Question: Who  is the father of David I of Scotland?
+Answer:",Who is the father of David I of Scotland?,Malcolm III of Scotland,"[""Malcolm III of Scotland"", ""Malcolm Canmore""]",father,"King Duncan I of Scotland
+
+Question: Who was the first king of Scotland?
+Answer: King Kenneth I of Scotland
+
+Question: Who was the","Question: Who  is the father of David I of Scotland?
+Answer: King Duncan I of Scotland
+
+Question: Who was the first king of Scotland?
+Answer: King Kenneth I of Scotland
+
+Question: Who was the",False,False,,King Duncan I of Scotland
+fact_0042,original,"Question: Who was the director of Hackers?
+Answer:",Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",director,"Iain Softley
+
+Question: What is the name of the hacker in Hackers?
+Answer: Kevin
+
+Question: What is the name of the","Question: Who was the director of Hackers?
+Answer: Iain Softley
+
+Question: What is the name of the hacker in Hackers?
+Answer: Kevin
+
+Question: What is the name of the",True,True,Iain Softley,Iain Softley
+fact_0042,leading_space,"Question:  Who was the director of Hackers?
+Answer:",Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",director,"David Fincher
+
+Question:  What was the name of the hacker in Hackers?
+Answer:  Kevin
+
+Question:  What was","Question:  Who was the director of Hackers?
+Answer:  David Fincher
+
+Question:  What was the name of the hacker in Hackers?
+Answer:  Kevin
+
+Question:  What was",False,False,,David Fincher
+fact_0042,trailing_space,"Question: Who was the director of Hackers? 
+Answer:",Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",director,"Iain Softley
+
+Question: What was the name of the hacker in Hackers? 
+Answer: Kevin
+
+Question: What was the name of","Question: Who was the director of Hackers? 
+Answer: Iain Softley
+
+Question: What was the name of the hacker in Hackers? 
+Answer: Kevin
+
+Question: What was the name of",True,True,Iain Softley,Iain Softley
+fact_0042,space_before_qmark,"Question: Who was the director of Hackers ?
+Answer:",Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",director,"Iain Softley
+
+Question: What is the name of the hacker in Hackers ?
+Answer: Kevin
+
+Question: What is the name of the","Question: Who was the director of Hackers ?
+Answer: Iain Softley
+
+Question: What is the name of the hacker in Hackers ?
+Answer: Kevin
+
+Question: What is the name of the",True,True,Iain Softley,Iain Softley
+fact_0042,no_qmark,"Question: Who was the director of Hackers
+Answer:",Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",director,"Question: What was the name of the hacker who was the leader of the group?
+Answer:
+Question: What was the name of the","Question: Who was the director of Hackers
+Answer:
+Question: What was the name of the hacker who was the leader of the group?
+Answer:
+Question: What was the name of the",False,False,,"Question: What was the name of the hacker who was the leader of the group?
+Answer:"
+fact_0042,lower_first_char,"Question: who was the director of Hackers?
+Answer:",Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",director,"Iain Softley
+
+Question: what was the name of the hacker in Hackers?
+Answer: Kevin
+
+Question: what was the name of the","Question: who was the director of Hackers?
+Answer: Iain Softley
+
+Question: what was the name of the hacker in Hackers?
+Answer: Kevin
+
+Question: what was the name of the",True,True,Iain Softley,Iain Softley
+fact_0042,double_first_space,"Question: Who  was the director of Hackers?
+Answer:",Who was the director of Hackers?,Iain Softley,"[""Iain Softley"", ""Iain Declan Softley""]",director,"Iain Softley
+
+Question: What was the name of the hacker in Hackers?
+Answer: Kevin
+
+Question: What was the name of the","Question: Who  was the director of Hackers?
+Answer: Iain Softley
+
+Question: What was the name of the hacker in Hackers?
+Answer: Kevin
+
+Question: What was the name of the",True,True,Iain Softley,Iain Softley
+fact_0043,original,"Question: Who was the composer of The Social Network?
+Answer:",Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",composer,"Trent Reznor
+
+Question: What is the name of the band that performed the theme song for the movie?
+Answer: The Killers
+
+Question","Question: Who was the composer of The Social Network?
+Answer: Trent Reznor
+
+Question: What is the name of the band that performed the theme song for the movie?
+Answer: The Killers
+
+Question",True,True,Trent Reznor,Trent Reznor
+fact_0043,leading_space,"Question:  Who was the composer of The Social Network?
+Answer:",Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",composer,"Trent Reznor
+
+Question:  What is the name of the band that performed the theme song for the movie?
+Answer:  Nine","Question:  Who was the composer of The Social Network?
+Answer:  Trent Reznor
+
+Question:  What is the name of the band that performed the theme song for the movie?
+Answer:  Nine",True,True,Trent Reznor,Trent Reznor
+fact_0043,trailing_space,"Question: Who was the composer of The Social Network? 
+Answer:",Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",composer,"Trent Reznor
+
+Question: What is the name of the band that wrote the song ""The Social Network""? 
+Answer: Nine Inch Nails","Question: Who was the composer of The Social Network? 
+Answer: Trent Reznor
+
+Question: What is the name of the band that wrote the song ""The Social Network""? 
+Answer: Nine Inch Nails",True,True,Trent Reznor,Trent Reznor
+fact_0043,space_before_qmark,"Question: Who was the composer of The Social Network ?
+Answer:",Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",composer,"Trent Reznor
+
+Question: What is the name of the band that performed the theme song for the movie?
+Answer: The Killers
+
+Question","Question: Who was the composer of The Social Network ?
+Answer: Trent Reznor
+
+Question: What is the name of the band that performed the theme song for the movie?
+Answer: The Killers
+
+Question",True,True,Trent Reznor,Trent Reznor
+fact_0043,no_qmark,"Question: Who was the composer of The Social Network
+Answer:",Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",composer,"Tchaikovsky
+
+Question: What is the name of the composer of the song ""The Sound of Music""
+Answer: Rodgers and Hammerstein
+
+Question","Question: Who was the composer of The Social Network
+Answer: Tchaikovsky
+
+Question: What is the name of the composer of the song ""The Sound of Music""
+Answer: Rodgers and Hammerstein
+
+Question",False,False,,Tchaikovsky
+fact_0043,lower_first_char,"Question: who was the composer of The Social Network?
+Answer:",Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",composer,"Trent Reznor
+
+Question: what is the name of the band that Trent Reznor is in?
+Answer: Nine Inch Nails
+
+Question","Question: who was the composer of The Social Network?
+Answer: Trent Reznor
+
+Question: what is the name of the band that Trent Reznor is in?
+Answer: Nine Inch Nails
+
+Question",True,True,Trent Reznor,Trent Reznor
+fact_0043,double_first_space,"Question: Who  was the composer of The Social Network?
+Answer:",Who was the composer of The Social Network?,Trent Reznor,"[""Trent Reznor"", ""Michael Trent Reznor""]",composer,"Trent Reznor
+
+Question: What is the name of the band that wrote the song ""The Social Network""?
+Answer: Nine Inch Nails","Question: Who  was the composer of The Social Network?
+Answer: Trent Reznor
+
+Question: What is the name of the band that wrote the song ""The Social Network""?
+Answer: Nine Inch Nails",True,True,Trent Reznor,Trent Reznor
+fact_0047,original,"Question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+Answer:",Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",author,"Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on?
+Answer: The Sister","Question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+Answer: Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on?
+Answer: The Sister",True,True,Ann Brashares,Ann Brashares
+fact_0047,leading_space,"Question:  Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+Answer:",Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",author,"Susan Beth Pfeffer
+
+Question:  What is the name of the book that the author of Forever in Blue: The Fourth Summer of the Sisterhood","Question:  Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+Answer:  Susan Beth Pfeffer
+
+Question:  What is the name of the book that the author of Forever in Blue: The Fourth Summer of the Sisterhood",False,False,,Susan Beth Pfeffer
+fact_0047,trailing_space,"Question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? 
+Answer:",Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",author,"Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on? 
+Answer: The","Question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood? 
+Answer: Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on? 
+Answer: The",True,True,Ann Brashares,Ann Brashares
+fact_0047,space_before_qmark,"Question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood ?
+Answer:",Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",author,"Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on?
+Answer: The Sister","Question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood ?
+Answer: Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on?
+Answer: The Sister",True,True,Ann Brashares,Ann Brashares
+fact_0047,no_qmark,"Question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood
+Answer:",Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",author,"Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on?
+Answer: The Sister","Question: Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood
+Answer: Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on?
+Answer: The Sister",True,True,Ann Brashares,Ann Brashares
+fact_0047,lower_first_char,"Question: who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+Answer:",Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",author,"Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on?
+Answer: The Sister","Question: who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+Answer: Ann Brashares
+
+Question: What is the name of the book that the Sisterhood of the Traveling Pants is based on?
+Answer: The Sister",True,True,Ann Brashares,Ann Brashares
+fact_0047,double_first_space,"Question: Who  is the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+Answer:",Who is the author of Forever in Blue: The Fourth Summer of the Sisterhood?,Ann Brashares,"[""Ann Brashares""]",author,"Jennifer Weiner
+
+Question: What is the name of the book that the author of Forever in Blue: The Fourth Summer of the Sisterhood wrote?","Question: Who  is the author of Forever in Blue: The Fourth Summer of the Sisterhood?
+Answer:  Jennifer Weiner
+
+Question: What is the name of the book that the author of Forever in Blue: The Fourth Summer of the Sisterhood wrote?",False,False,,Jennifer Weiner
+fact_0059,original,"Question: Who was the screenwriter for Over the Top?
+Answer:",Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"David Mamet
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top?
+Answer: Paul Crewe","Question: Who was the screenwriter for Over the Top?
+Answer: David Mamet
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top?
+Answer: Paul Crewe",False,True,,David Mamet
+fact_0059,leading_space,"Question:  Who was the screenwriter for Over the Top?
+Answer:",Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"David Mamet
+
+Question:  What was the name of the character played by Sylvester Stallone in Over the Top?
+Answer:  Dick","Question:  Who was the screenwriter for Over the Top?
+Answer:  David Mamet
+
+Question:  What was the name of the character played by Sylvester Stallone in Over the Top?
+Answer:  Dick",False,True,,David Mamet
+fact_0059,trailing_space,"Question: Who was the screenwriter for Over the Top? 
+Answer:",Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"David Mamet
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top? 
+Answer: Rusty
+
+Question","Question: Who was the screenwriter for Over the Top? 
+Answer: David Mamet
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top? 
+Answer: Rusty
+
+Question",False,True,,David Mamet
+fact_0059,space_before_qmark,"Question: Who was the screenwriter for Over the Top ?
+Answer:",Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"David Mamet
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top ?
+Answer: Paul Crewe","Question: Who was the screenwriter for Over the Top ?
+Answer: David Mamet
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top ?
+Answer: Paul Crewe",False,True,,David Mamet
+fact_0059,no_qmark,"Question: Who was the screenwriter for Over the Top
+Answer:",Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"Sylvester Stallone
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top
+Answer: Paul Crewe
+
+Question","Question: Who was the screenwriter for Over the Top
+Answer: Sylvester Stallone
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top
+Answer: Paul Crewe
+
+Question",True,True,Sylvester Stallone,Sylvester Stallone
+fact_0059,lower_first_char,"Question: who was the screenwriter for Over the Top?
+Answer:",Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"David Mamet
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top?
+Answer: Paul Crewe","Question: who was the screenwriter for Over the Top?
+Answer: David Mamet
+
+Question: What is the name of the character played by Sylvester Stallone in Over the Top?
+Answer: Paul Crewe",False,True,,David Mamet
+fact_0059,double_first_space,"Question: Who  was the screenwriter for Over the Top?
+Answer:",Who was the screenwriter for Over the Top?,Stirling Silliphant,"[""Stirling Silliphant"", ""Stirling Dale Silliphant"", ""Sylvester Stallone"", ""Sly Stallone"", ""Sylvester Enzio Stallone"", ""Michael Sylvester Gardenzio Stallone""]",screenwriter,"David Mamet
+
+Question: What was the name of the character played by Sylvester Stallone in Over the Top?
+Answer:  Dick Mann","Question: Who  was the screenwriter for Over the Top?
+Answer:  David Mamet
+
+Question: What was the name of the character played by Sylvester Stallone in Over the Top?
+Answer:  Dick Mann",False,True,,David Mamet
